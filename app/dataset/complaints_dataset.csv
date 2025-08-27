@@ -1,0 +1,651 @@
+Complaint,Category,Priority
+May malaking butas sa kalsada sa eskwelahan,Roads & Infrastructure,Low
+May malaking butas sa kalsada sa opisina,Roads & Infrastructure,Low
+Mabagal ang pagkumpuni ng kalsada sa opisina,Roads & Infrastructure,High
+Sira ang tulay papunta sa palengke,Roads & Infrastructure,High
+May malaking butas sa kalsada sa kanto,Roads & Infrastructure,Medium
+Sira ang tulay papunta sa barangay plaza,Roads & Infrastructure,Medium
+Sira ang tulay papunta sa kanto,Roads & Infrastructure,Medium
+May malaking butas sa kalsada sa palengke,Roads & Infrastructure,Low
+Hindi pantay ang semento sa kalsada,Roads & Infrastructure,High
+Mabagal ang pagkumpuni ng kalsada sa munisipyo,Roads & Infrastructure,Medium
+Hindi pantay ang semento sa kalsada sa barangay ,Roads & Infrastructure,Medium
+May malaking butas sa kalsada sa palengke,Roads & Infrastructure,Low
+May malaking butas sa kalsada sa munisipyo,Roads & Infrastructure,Low
+Mabagal ang pagkumpuni ng kalsada sa kanto,Roads & Infrastructure,High
+May malaking butas sa kalsada sa eskwelahan,Roads & Infrastructure,Low
+Mabagal ang pagkumpuni ng kalsada sa munisipyo,Roads & Infrastructure,Low
+Sira ang tulay papunta sa palengke,Roads & Infrastructure,Medium
+Sira ang tulay papunta sa munisipyo,Roads & Infrastructure,High
+May malaking butas sa kalsada sa munisipyo,Roads & Infrastructure,Low
+Mabagal ang pagkumpuni ng kalsada sa palengke,Roads & Infrastructure,Medium
+Hindi pantay ang semento sa kalsada sa munisipyo,Roads & Infrastructure,High
+Mabaho ang paligid dahil hindi dinadala ang basura sa eskwelahan,Waste Management,Low
+Mabaho ang paligid dahil hindi dinadala ang basura sa eskwelahan,Waste Management,Medium
+Walang dumadaang trak ng basura sa opisina,Waste Management,Medium
+Tambak ng basura sa gilid ng kalsada sa hospital,Waste Management,Medium
+Mabaho ang paligid dahil hindi dinadala ang basura sa eskwelahan,Waste Management,Medium
+Tambak ng basura sa gilid ng kalsada sa terminal,Waste Management,Low
+Mabaho ang paligid dahil hindi dinadala ang basura sa eskwelahan,Waste Management,Medium
+Mabaho ang paligid dahil hindi dinadala ang basura sa opisina,Waste Management,Medium
+Hindi nakokolekta ang basura sa palengke,Waste Management,High
+Mabaho ang paligid dahil hindi dinadala ang basura sa kanto,Waste Management,Medium
+Tambak ng basura sa gilid ng kalsada sa hospital,Waste Management,Medium
+Walang dumadaang trak ng basura sa munisipyo,Waste Management,Low
+Tambak ng basura sa gilid ng kalsada sa barangay hall,Waste Management,Low
+Tambak ng basura sa gilid ng kalsada sa barangay plaza,Waste Management,Medium
+Tambak ng basura sa gilid ng kalsada sa eskwelahan,Waste Management,Medium
+Tambak ng basura sa gilid ng kalsada sa terminal,Waste Management,Medium
+Hindi nakokolekta ang basura sa terminal,Waste Management,Low
+Tambak ng basura sa gilid ng kalsada sa barangay hall,Waste Management,High
+Mabaho ang paligid dahil hindi dinadala ang basura sa kanto,Waste Management,Low
+Mabaho ang paligid dahil hindi dinadala ang basura sa hospital,Waste Management,High
+Walang dumadaang trak ng basura sa munisipyo,Waste Management,Medium
+Hindi nakokolekta ang basura sa palengke,Waste Management,High
+Sirang poste ng ilaw sa kanto ng hospital,Electricity Services,Medium
+Walang tubig buong araw sa kanto,Water Services,Low
+Walang kuryente simula kahapon sa terminal,Electricity Services,Medium
+Mahina ang pressure ng tubig tuwing gabi sa aming barangay,Water Services,Medium
+Sirang poste ng ilaw sa kanto ng eskwelahan,Electricity Services,Medium
+Walang kuryente simula kahapon sa kanto,Electricity Services,Medium
+Walang tubig buong araw sa munisipyo,Water Services,High
+Sirang poste ng ilaw sa kanto ng terminal,Electricity Services,High
+Walang kuryente simula kahapon sa eskwelahan,Electricity Services,Low
+Walang kuryente simula kahapon sa barangay hall,Electricity Services,High
+Walang kuryente simula kahapon sa barangay hall,Electricity Services,Medium
+Mahina ang pressure ng tubig tuwing gabi sa barangay,Water Services,High
+Walang tubig buong araw sa terminal,Water Services,Low
+Walang kuryente simula kahapon sa opisina,Electricity Services,High
+Walang kuryente simula kahapon sa hospital,Electricity Services,Low
+Walang tubig buong araw sa eskwelahan,Water Services,High
+Walang tubig buong araw sa terminal,Water Services,Medium
+Walang tubig buong araw sa barangay,Water Services,Low
+Mahina ang pressure ng tubig tuwing gabi sa terminal,Water Services,High
+Walang kuryente simula kahapon sa hospital,Electricity Services,High
+Walang kuryente simula kahapon sa terminal,Electricity Services,Low
+Mahina ang pressure ng tubig tuwing gabi sa barangay hall,Water Services,Medium
+Hindi dumadaan ang mga jeep sa tamang ruta sa terminal,Transportation,High
+Laging puno ang bus at hindi tumitigil sa munisipyo,Transportation,High
+Mahal maningil ang nasakyan kong tricycle,Transportation,High
+Walang sapat na tricycle sa kanto tuwing gabi,Transportation,High
+Laging puno ang bus at hindi tumitigil sa tamang antayan,Transportation,High
+Laging puno ang bus at hindi tumitigil sa barangay hall,Transportation,Low
+Mahal ang pasahe sa jeep kahit maiksi lang ang ruta sa palengke,Transportation,Medium
+Hindi dumadaan ang mga jeep sa tamang ruta sa barangay hall,Transportation,Medium
+Laging puno ang bus at hindi tumitigil sa kanto,Transportation,Low
+Walang sapat na tricycle sa eskwelahan tuwing gabi,Transportation,High
+Laging puno ang bus at hindi tumitigil sa barangay plaza,Transportation,High
+Laging puno ang bus at hindi tumitigil sa kanto,Transportation,Medium
+Hindi dumadaan ang mga jeep sa tamang ruta sa munisipyo,Transportation,High
+Hindi dumadaan ang mga jeep sa tamang ruta sa palengke,Transportation,Low
+Hindi dumadaan ang mga jeep sa tamang ruta sa hospital,Transportation,Medium
+Mahal ang pasahe sa jeep kahit maiksi lang ang ruta sa munisipyo,Transportation,Medium
+Mahal ang pasahe sa jeep kahit maiksi lang ang ruta sa opisina,Transportation,Low
+Laging puno ang bus at hindi tumitigil sa kanto,Transportation,Medium
+Walang sapat na tricycle sa hospital tuwing gabi,Transportation,Low
+Hindi dumadaan ang mga jeep sa tamang ruta sa barangay plaza,Transportation,Low
+Walang sapat na tricycle sa barangay plaza tuwing gabi,Transportation,High
+Mahal ang pasahe sa jeep kahit maiksi lang ang ruta sa munisipyo,Transportation,Low
+Walang sapat na tricycle sa hospital tuwing gabi,Transportation,Medium
+Sobra ang singil sa bigas sa palengke sa barangay plaza,Overpricing,Medium
+Mahal ang bilihin sa tindahan sa hospital,Overpricing,High
+Mahal ang bilihin sa tindahan sa kanto,Overpricing,Medium
+Hindi binabayaran ng tama ang sahod ng mga manggagawa sa opisina,Workforce Concerns,Medium
+Sobra ang singil sa bigas sa palengke sa munisipyo,Overpricing,Low
+Pinapapasok kahit holiday pero walang overtime pay ,Workforce Concerns,Low
+Hindi binabayaran ng tama ang sahod ng mga manggagawa sa hospital,Workforce Concerns,High
+Mahal ang bilihin sa tindahan sa eskwelahan,Overpricing,Medium
+Sobra ang singil sa bigas sa palengke,Overpricing,Medium
+Hindi binabayaran ng tama ang sahod ng mga manggagawa sa terminal,Workforce Concerns,Low
+Mahal ang bilihin sa tindahan sa eskwelahan,Overpricing,Low
+Mahal ang bilihin sa tindahan sa kanto,Overpricing,Medium
+Hindi binabayaran ng tama ang sahod ng mga manggagawa sa munisipyo,Workforce Concerns,Low
+Hindi binabayaran ng tama ang sahod ng mga manggagawa sa barangay hall,Workforce Concerns,Medium
+Mahal ang bilihin sa tindahan sa barangay,Overpricing,High
+Mahal ang bilihin sa tindahan sa barangay,Overpricing,Low
+Pinapapasok kahit holiday pero walang overtime pay sa opisina,Workforce Concerns,Medium
+Sobra ang singil sa bigas sa palengke sa eskwelahan,Overpricing,Medium
+Hindi binabayaran ng tama ang sahod ng mga manggagawa,Workforce Concerns,Low
+Mahal ang bilihin sa tindahan sa terminal,Overpricing,Low
+Pinapapasok kahit holiday pero walang overtime pay sa kanto,Workforce Concerns,High
+Sobra ang singil sa bigas sa palengke sa kanto,Overpricing,Low
+Dalawang buwan na ang reklamo pero wala pa ring aksyon sa opisina,Service Delays and Inaction,High
+Dalawang buwan na ang reklamo pero wala pa ring aksyon sa barangay plaza,Service Delays and Inaction,High
+Dalawang buwan na ang reklamo pero wala pa ring aksyon sa palengke,Service Delays and Inaction,High
+Matagal bago kumilos ang opisina tungkol sa problema sa barangay hall,Service Delays and Inaction,Low
+Walang sagot sa reklamo na ipinasa sa eskwelahan,Service Delays and Inaction,Medium
+Hindi agad natutugunan ang sumbong sa barangay hall,Service Delays and Inaction,Medium
+Hindi agad natutugunan ang sumbong sa munisipyo,Service Delays and Inaction,Medium
+Matagal bago kumilos ang opisina tungkol sa problema sa barangay,Service Delays and Inaction,High
+Dalawang buwan na ang reklamo pero wala pa ring aksyon sa terminal,Service Delays and Inaction,Low
+Walang sagot sa reklamo na ipinasa sa kanto,Service Delays and Inaction,Medium
+Dalawang buwan na ang reklamo pero wala pa ring aksyon sa kanto,Service Delays and Inaction,Medium
+Matagal bago kumilos ang opisina tungkol sa problema sa terminal,Service Delays and Inaction,Medium
+Matagal bago kumilos ang opisina tungkol sa problema sa palengke,Service Delays and Inaction,High
+Walang sagot sa reklamo na ipinasa sa munisipyo,Service Delays and Inaction,Medium
+Hindi agad natutugunan ang sumbong sa tanggapan ng gobyerno,Service Delays and Inaction,Medium
+Hindi agad natutugunan ang sumbong sa barangay,Service Delays and Inaction,Medium
+Hindi agad natutugunan ang sumbong sa opisina,Service Delays and Inaction,Medium
+Walang sagot sa reklamo na ipinasa sa barangay ,Service Delays and Inaction,Low
+Dalawang buwan na ang reklamo pero wala pa ring aksyon sa eskwelahan,Service Delays and Inaction,Low
+Hindi agad natutugunan ang sumbong sa kanto,Service Delays and Inaction,Low
+Walang sagot sa reklamo na ipinasa sa barangay hall,Service Delays and Inaction,High
+Nagmumura ang empleyado sa opisina,Unprofessional Conduct and Behavior,High
+Pinapabayaan ng guwardiya ang mga pumipila sa kanto,Unprofessional Conduct and Behavior,Low
+Sinigawan ng kawani ang mga residente sa barangay plaza,Unprofessional Conduct and Behavior,Low
+Sinigawan ng kawani ang mga residente sa opisina,Unprofessional Conduct and Behavior,High
+Pinapabayaan ng guwardiya ang mga pumipila sa eskwelahan,Unprofessional Conduct and Behavior,Medium
+Pinapabayaan ng guwardiya ang mga pumipila sa eskwelahan,Unprofessional Conduct and Behavior,Medium
+Nagmumura ang empleyado sa hospital,Unprofessional Conduct and Behavior,Low
+Hindi magalang ang staff sa tanggapan ng kanto,Unprofessional Conduct and Behavior,Medium
+Pinapabayaan ng guwardiya ang mga pumipila sa palengke,Unprofessional Conduct and Behavior,Medium
+Nagmumura ang empleyado sa barangay plaza,Unprofessional Conduct and Behavior,Low
+Hindi magalang ang staff sa tanggapan ng terminal,Unprofessional Conduct and Behavior,High
+Pinapabayaan ng guwardiya ang mga pumipila sa kanto,Unprofessional Conduct and Behavior,Low
+Nagmumura ang empleyado sa munisipyo,Unprofessional Conduct and Behavior,Medium
+Pinapabayaan ng guwardiya ang mga pumipila sa terminal,Unprofessional Conduct and Behavior,High
+Pinapabayaan ng guwardiya ang mga pumipila sa barangay plaza,Unprofessional Conduct and Behavior,Low
+Hindi magalang ang staff sa tanggapan ng opisina,Unprofessional Conduct and Behavior,High
+Nagmumura ang empleyado sa barangay plaza,Unprofessional Conduct and Behavior,Low
+Hindi magalang ang staff sa tanggapan ng hospital,Unprofessional Conduct and Behavior,Low
+Hindi magalang ang staff sa tanggapan ng barangay plaza,Unprofessional Conduct and Behavior,Medium
+Pinapabayaan ng guwardiya ang mga pumipila sa barangay plaza,Unprofessional Conduct and Behavior,Medium
+Sinigawan ng kawani ang mga residente sa barangay plaza,Unprofessional Conduct and Behavior,Medium
+Pinapabayaan ng guwardiya ang mga pumipila sa munisipyo,Unprofessional Conduct and Behavior,Low
+Mahirap kumuha ng appointment sa hospital,Procedural and Operational Issues,Medium
+Mabagal ang proseso ng pagkuha ng dokumento sa hospital,Procedural and Operational Issues,Low
+Laging kulang ang staff sa eskwelahan,Procedural and Operational Issues,High
+Palaging offline ang system,Procedural and Operational Issues,High
+Laging kulang ang staff sa munisipyo,Procedural and Operational Issues,High
+Mabagal ang proseso ng pagkuha ng dokumento sa opisina,Procedural and Operational Issues,Medium
+Mabagal ang proseso ng pagkuha ng dokumento sa munisipyo,Procedural and Operational Issues,Medium
+Palaging offline ang system,Procedural and Operational Issues,High
+Laging kulang ang staff,Procedural and Operational Issues,Medium
+Mabagal ang proseso ng pagkuha ng dokumento sa kanto,Procedural and Operational Issues,High
+Mabagal ang proseso ng pagkuha ng dokumento sa barangay plaza,Procedural and Operational Issues,Medium
+Mahirap kumuha ng appointment sa eskwelahan,Procedural and Operational Issues,High
+Mahirap kumuha ng appointment sa tanggapan ng gobyerno,Procedural and Operational Issues,High
+Palaging offline ang system sa barangay hall,Procedural and Operational Issues,Medium
+Palaging offline ang system sa hospital,Procedural and Operational Issues,Low
+Laging kulang ang staff sa hospital,Procedural and Operational Issues,High
+Palaging offline ang system sa munisipyo,Procedural and Operational Issues,Low
+Laging kulang ang staff sa opisina,Procedural and Operational Issues,Medium
+Palaging offline ang system,Procedural and Operational Issues,Low
+Mahirap kumuha ng appointment sa barangay,Procedural and Operational Issues,Low
+Mabagal ang proseso ng pagkuha ng dokumento sa opisina,Procedural and Operational Issues,High
+Nanghihingi ng lagay sa barangay sa barangay plaza,Governance and Integrity Concerns,Low
+May katiwalian sa pagkuha ng permit sa munisipyo,Governance and Integrity Concerns,Medium
+Paboritismo sa pamimigay ng ayuda sa munisipyo,Governance and Integrity Concerns,High
+Nanghihingi ng lagay sa barangay sa eskwelahan,Governance and Integrity Concerns,Medium
+May katiwalian sa pagkuha ng permit sa terminal,Governance and Integrity Concerns,High
+Paboritismo sa pamimigay ng ayuda sa palengke,Governance and Integrity Concerns,Medium
+Paboritismo sa pamimigay ng ayuda sa hospital,Governance and Integrity Concerns,Medium
+Hindi transparent ang pondo sa proyekto sa barangay hall,Governance and Integrity Concerns,Low
+Hindi transparent ang pondo sa proyekto sa kanto,Governance and Integrity Concerns,Medium
+May katiwalian sa pagkuha ng permit sa opisina,Governance and Integrity Concerns,High
+Nanghihingi ng lagay sa barangay sa kanto,Governance and Integrity Concerns,Low
+Hindi transparent ang pondo sa proyekto sa terminal,Governance and Integrity Concerns,Low
+Paboritismo sa pamimigay ng ayuda sa munisipyo,Governance and Integrity Concerns,Medium
+May katiwalian sa pagkuha ng permit sa kanto,Governance and Integrity Concerns,High
+Paboritismo sa pamimigay ng ayuda sa opisina,Governance and Integrity Concerns,Medium
+May katiwalian sa pagkuha ng permit sa munisipyo,Governance and Integrity Concerns,High
+Nanghihingi ng lagay sa barangay sa munisipyo,Governance and Integrity Concerns,Medium
+Paboritismo sa pamimigay ng ayuda sa eskwelahan,Governance and Integrity Concerns,Low
+Hindi transparent ang pondo sa proyekto sa opisina,Governance and Integrity Concerns,High
+Hindi transparent ang pondo sa proyekto sa terminal,Governance and Integrity Concerns,Low
+Hindi transparent ang pondo sa proyekto sa kanto,Governance and Integrity Concerns,High
+Hindi transparent ang pondo sa proyekto sa opisina,Governance and Integrity Concerns,Medium
+There is a pothole in front of the barangay hall,Roads & Infrastructure,High
+Garbage has not been collected in our area for days,Waste Management,Medium
+There has been no water supply since yesterday,Water Services,High
+A streetlight post is broken on the corner,Electricity Services,Medium
+There is corruption in securing building permits,Governance and Integrity Concerns,High
+Trash is piling up on the side of the road,Waste Management,Medium
+The road leading to the market is damaged,Roads & Infrastructure,High
+Water pressure is too weak every night,Water Services,Medium
+"Barangay officials are asking for bribes""",Governance and Integrity Concerns,High
+There has been no electricity for the whole day,Electricity Services,High
+"Jeepney fare is overpriced compared to the route""",Transportation,Medium
+"Rice prices in the market are too expensive""",Overpricing,High
+The processing of documents at city hall takes too long,Procedural and Operational Issues,Medium
+"Government staff were rude to citizens""",Unprofessional Conduct and Behavior,High
+"My complaint has not been acted upon for weeks""",Service Delays and Inaction,High
+"There is a long delay in responding to permit applications""",Service Delays and Inaction,Medium
+"Some barangay employees are unprofessional""",Unprofessional Conduct and Behavior,Medium
+The ID application system is very slow,Procedural and Operational Issues,Low
+"I reported this issue but there has been no action until now""",Service Delays and Inaction,High
+"The staff shouted at people in the office""",Unprofessional Conduct and Behavior,High
+"Many potholes make the road dangerous""",Roads & Infrastructure,High
+"The garbage truck does not arrive on schedule""",Waste Management,Medium
+"Our community has had no water for three days""",Water Services,High
+"Streetlights on the main road are not functioning""",Electricity Services,Medium
+"Officials demand extra payment for permits""",Governance and Integrity Concerns,High
+"Uncollected waste causes foul odor""",Waste Management,Low
+"The bridge is damaged and unsafe""",Roads & Infrastructure,High
+"The water service is frequently interrupted""",Water Services,Medium
+"Bribery is rampant in the licensing process""",Governance and Integrity Concerns,High
+"Frequent brownouts affect our work""",Electricity Services,High
+"Tricycle drivers charge excessive fares""",Transportation,Medium
+"Wages for workers are not paid on time""",Workforce Concerns,High
+Applying for clearances takes weeks,Procedural and Operational Issues,Medium
+"Employees are disrespectful to senior citizens""",Unprofessional Conduct and Behavior,High
+"No follow-up on submitted reports""",Service Delays and Inaction,Medium
+"Applications are always delayed""",Service Delays and Inaction,Low
+"Clerks and staff are not accommodating""",Unprofessional Conduct and Behavior,Medium
+The passport process is very slow,Procedural and Operational Issues,High
+"No update on complaint filed months ago""",Service Delays and Inaction,High
+"Staff is rude and dismissive""",Unprofessional Conduct and Behavior,High
+"Collapsed road section has not been repaired""",Roads & Infrastructure,High
+"Waste is scattered around the market""",Waste Management,Low
+"The water pipes are leaking everywhere""",Water Services,Medium
+"Broken electric post still not fixed""",Electricity Services,High
+"Officials pocket public funds""",Governance and Integrity Concerns,High
+"Piles of uncollected trash block the street""",Waste Management,High
+"The road to the school is full of holes""",Roads & Infrastructure,High
+"Low water pressure is a recurring problem""",Water Services,Medium
+"Permits are only approved with bribes""",Governance and Integrity Concerns,High
+"Power outage lasted for two days""",Electricity Services,High
+"Taxi drivers do not follow fare meters""",Transportation,Medium
+"Essential goods are overpriced in stores""",Overpricing,High
+Long waiting times for birth certificate requests,Procedural and Operational Issues,Medium
+"Clerk was unprofessional and shouted at customers""",Unprofessional Conduct and Behavior,High
+"No feedback on submitted concerns""",Service Delays and Inaction,High
+"Government hotline is always unresponsive""",Service Delays and Inaction,Medium
+Official are disrecpectful,Unprofessional Conduct and Behavior,Medium
+Barangay officials are disrespectful,Unprofessional Conduct and Behavior,Medium
+"Some employees are disrespectful""",Unprofessional Conduct and Behavior,Low
+The online portal is frequently down,Procedural and Operational Issues,Medium
+"No progress on case filed last month""",Service Delays and Inaction,High
+"Staff use foul language with citizens""",Unprofessional Conduct and Behavior,High
+"Road widening project is left unfinished""",Roads & Infrastructure,Medium
+"Garbage collection happens only once a month""",Waste Management,High
+"Tap water is dirty and unsafe to drink""",Water Services,High
+"Streetlights in the plaza are all broken""",Electricity Services,Medium
+"Corruption in bidding for projects""",Governance and Integrity Concerns,High
+"Garbage bins are overflowing""",Waste Management,Medium
+"The highway is damaged after heavy rains""",Roads & Infrastructure,High
+"Water supply disruptions happen weekly""",Water Services,Medium
+"Officials ask for money to speed up processing""",Governance and Integrity Concerns,High
+"Electricity was cut without notice""",Electricity Services,High
+"Public transport fares increased unfairly""",Transportation,High
+"Workers are underpaid compared to the law""",Workforce Concerns,High
+The licensing office is disorganized,Procedural and Operational Issues,Low
+"Staff behave arrogantly towards clients""",Unprofessional Conduct and Behavior,Medium
+"Complaints take months to resolve""",Service Delays and Inaction,High
+"No timely updates on service requests""",Service Delays and Inaction,Medium
+"Employees laugh at clients at people's concerns""",Unprofessional Conduct and Behavior,High
+The queue system is broken and confusing,Procedural and Operational Issues,Medium
+"No response to email inquiries""",Service Delays and Inaction,Low
+"Clerk and employee scolded people in public""",Unprofessional Conduct and Behavior,High
+"Road cracks make driving unsafe""",Roads & Infrastructure,High
+"Garbage is dumped illegally in open spaces""",Waste Management,Medium
+"Water is rationed with no explanation""",Water Services,High
+"Transformer exploded causing blackout""",Electricity Services,High
+"Fake receipts issued by officials""",Governance and Integrity Concerns,High
+"Trash blocks the drainage system""",Waste Management,High
+"Unpaved roads make access difficult""",Roads & Infrastructure,Medium
+"Water lines burst frequently""",Water Services,Medium
+"Bribes required for police clearance""",Governance and Integrity Concerns,High
+Power outage damaged appliances,Electricity Services,High
+Bus fare increases are unjustified,Transportation,Medium
+Overpricing of vegetables in the market,Overpricing,High
+Processing takes too many unnecessary steps,Procedural and Operational Issues,Medium
+Rude and sarcastic staff at city hall,Unprofessional Conduct and Behavior,High
+Requests are always pending,Service Delays and Inaction,High
+No clear timeline for case resolution,Service Delays and Inaction,Medium
+Clerks gossip instead of working,Unprofessional Conduct and Behavior,Medium
+The online appointment system always fails,Procedural and Operational Issues,High
+No resolution for long-pending requests,Service Delays and Inaction,High
+Employees mock citizens,Unprofessional Conduct and Behavior,High
+Road repairs take forever to finish,Roads & Infrastructure,Medium
+Uncollected garbage attracts pests,Waste Management,High
+Water supply is unsafe and smells bad,Water Services,High
+Streetlights have not been fixed for months,Electricity Services,Medium
+Corruption in contract approvals,Governance and Integrity Concerns,High
+Trash not picked up in residential areas,Waste Management,Medium
+Broken road damages vehicles,Roads & Infrastructure,High
+Frequent water shortages affect households,Water Services,Medium
+Officials demand favors for approval,Governance and Integrity Concerns,High
+Electric posts left unrepaired pose danger,Electricity Services,High
+Tricycle fares doubled without reason,Transportation,High
+Workers are exploited with long hours,Workforce Concerns,High
+Application process has too many redundancies,Procedural and Operational Issues,Medium
+Rude staff make citizens uncomfortable,Unprofessional Conduct and Behavior,High
+No updates after complaint submission,Service Delays and Inaction,High
+Delayed responses to urgent concerns,Service Delays and Inaction,Medium
+Clerks are dismissive and lazy,Unprofessional Conduct and Behavior,Medium
+The queue management system is inefficient,Procedural and Operational Issues,Low
+No answer on hotline for weeks,Service Delays and Inaction,High
+Employees insult people asking for help,Unprofessional Conduct and Behavior,High
+Bridge remains unrepaired after collapse,Roads & Infrastructure,High
+Uncollected trash causes health risks,Waste Management,High
+Water supply interruptions are constant,Water Services,Medium
+Frequent brownouts leave community helpless,Electricity Services,High
+Officials ask for bribes to release documents,Governance and Integrity Concerns,High
+Garbage piles block pedestrian walkways,Waste Management,Medium
+Road surfaces are uneven and unsafe,Roads & Infrastructure,Medium
+Water services are not reliable,Water Services,Medium
+Bribes common in employment processes,Governance and Integrity Concerns,High
+Power outage lasted all night,Electricity Services,High
+Drivers charge double the fare,Transportation,High
+Goods in the store are overpriced,Overpricing,High
+Document release takes too long,Procedural and Operational Issues,Medium
+Staff shouted at elderly citizens,Unprofessional Conduct and Behavior,High
+No action despite repeated reports,Service Delays and Inaction,High
+Response time is always too slow,Service Delays and Inaction,Medium
+Clerks are not courteous,Unprofessional Conduct and Behavior,Low
+The online system crashes constantly,Procedural and Operational Issues,High
+Months pass without complaint resolution,Service Delays and Inaction,High
+Employees ignore customers,Unprofessional Conduct and Behavior,High
+Road construction blocks traffic for weeks,Roads & Infrastructure,Medium
+Garbage scattered near school,Waste Management,High
+Low water pressure disrupts daily chores,Water Services,Medium
+Frequent outages damage businesses,Electricity Services,High
+Officials falsify records,Governance and Integrity Concerns,High
+Waste disposal is not managed well,Waste Management,Medium
+Damaged roads cause accidents,Roads & Infrastructure,High
+Water delivery is unreliable,Water Services,Medium
+Corruption in government projects,Governance and Integrity Concerns,High
+Electric posts lean dangerously,Electricity Services,High
+Public transport fares keep increasing,Transportation,High
+Employees are underpaid and exploited,Workforce Concerns,High
+Application process takes too long,Procedural and Operational Issues,Medium
+Government staff are unhelpful,Unprofessional Conduct and Behavior,Medium
+No resolution to long-standing complaints,Service Delays and Inaction,High
+Follow-ups receive no response,Service Delays and Inaction,Medium
+Staff behavior is inappropriate,Unprofessional Conduct and Behavior,High
+The system for processing IDs is faulty,Procedural and Operational Issues,Medium
+No feedback after filing a request,Service Delays and Inaction,Low
+Employees treat citizens badly,Unprofessional Conduct and Behavior,High
+The tricycle I rode was expensive to charge,Transportation,High
+"Good day. I would like to report that there is a large pothole on our street that has been left unrepaired for a long time. This causes difficulties for motorists and residents, especially during rainy days when the hole fills with water and becomes a hazard.",Procedural and Operational Issues,High
+"Magandang araw po. Nais ko pong ireport na may malaking butas sa kalsada sa aming lugar na matagal nang hindi naaayos. Nagdudulot ito ng panganib para sa mga motorista at residente, lalo na kapag umuulan at napupuno ng tubig ang butas.",Procedural and Operational Issues,High
+"Every night, the water pressure in our area becomes extremely weak. Residents are unable to properly wash dishes, clean, or even take baths.",Water Services,High
+"Gabi-gabi ay sobrang hina ng tubig sa aming lugar. Hirap ang mga residente na maghugas, maglinis, o maligo dahil halos walang lumalabas na tubig sa gripo.",Water Services,High
+"The processing of documents at the city hall is taking too long. Residents are forced to wait in line for hours, and sometimes they are asked to return the next day.",Procedural and Operational Issues,Medium
+Napakatagal ng proseso ng mga dokumento sa city hall. Pinapaghihintay ng matagal ang mga residente at minsan pinapabalik pa kinabukasan.,Procedural and Operational Issues,Medium
+"We are concerned about the project at the street corner. Up to now, there has been no transparency regarding the use of funds.",Governance and Integrity Concerns,High
+"Nag-aalala po kami tungkol sa proyekto sa kanto. Hanggang ngayon, walang malinaw na transparency tungkol sa paggamit ng pondo.",Governance and Integrity Concerns,High
+"Garbage has not been collected in our neighborhood for several days. Trash has piled up, causing foul odor and attracting pests.",Waste Management,High
+Ilang araw nang hindi nakokolekta ang basura sa aming lugar. Naiipon ito at nagdudulot ng mabahong amoy at peste.,Waste Management,High
+Some workers in the ongoing road project are asking residents for extra payment not included in the official billing.,Overpricing,High
+May ilang manggagawa sa proyekto sa kalsada na nanghihingi ng dagdag na bayad sa mga residente na wala sa opisyal na singil.,Overpricing,High
+Several residents have complained that some staff members at the barangay office speak rudely when people bring up their concerns.,Unprofessional Conduct and Behavior,Medium
+Maraming residente ang nagrereklamo na may ilang kawani sa barangay na bastos at hindi magalang kapag may hinaing ang tao.,Unprofessional Conduct and Behavior,Medium
+"Street sweepers in our area are frequently absent, leaving trash scattered on the sidewalks.",Waste Management,Medium
+Madalas pong wala ang mga street sweeper sa aming lugar kaya naiwan ang basura sa kalsada at bangketa.,Waste Management,Medium
+Napakataas ng budget ng bagong proyekto ng barangay kumpara sa mga proyekto sa karatig na lugar.,Governance and Integrity Concerns,High
+The budget for the new barangay project is unusually high compared to similar projects nearby.,Governance and Integrity Concerns,High
+"City hall staff are often late in opening their counters, forcing residents to wait longer before they can be served.",Unprofessional Conduct and Behavior,Low
+Madalas pong nahuhuli ang mga empleyado ng city hall sa pagbubukas ng counter kaya matagal maghintay ang mga residente.,Unprofessional Conduct and Behavior,Low
+"Trash bins in our street are always overflowing and not regularly emptied, causing bad smell around the neighborhood.",Waste Management,High
+"Laging umaapaw ang mga basurahan sa aming kalsada at hindi agad naaalis, nagdudulot ng mabahong amoy sa paligid.",Waste Management,High
+Barangay officials failed to provide a financial report regarding the recent community project.,Governance and Integrity Concerns,High
+Hindi nagbigay ng financial report ang mga opisyal ng barangay tungkol sa huling proyekto ng komunidad.,Governance and Integrity Concerns,High
+Employees at city hall are inattentive and often ignore residents seeking help with documents.,Unprofessional Conduct and Behavior,Medium
+Madalas hindi pinapansin ng mga empleyado sa city hall ang mga residente na humihingi ng tulong sa dokumento.,Unprofessional Conduct and Behavior,Medium
+The construction project on our street has been delayed for months without clear explanation.,Procedural and Operational Issues,High
+Matagal nang delayed ang proyekto sa aming kalsada at wala pang malinaw na paliwanag.,Procedural and Operational Issues,High
+Public funds are being used for unnecessary decorations instead of essential community services.,Governance and Integrity Concerns,High
+Ginagamit ang pondo ng bayan sa mga dekorasyon kaysa sa mahahalagang serbisyo para sa komunidad.,Governance and Integrity Concerns,High
+Barangay staff shout at residents instead of calmly assisting them with their concerns.,Unprofessional Conduct and Behavior,Medium
+Sumisigaw ang ilang staff ng barangay sa mga residente imbes na tulungan sila nang maayos.,Unprofessional Conduct and Behavior,Medium
+Workers at the construction site are not being given proper wages and benefits.,Workforce Concerns,High
+Hindi nabibigyan ng tamang sahod at benepisyo ang mga manggagawa sa konstruksyon.,Workforce Concerns,High
+Madalas hindi nadadaanan ng garbage truck ang aming kalsada kaya naiiwan ang mga basura.,Waste Management,Medium
+"Garbage trucks often skip our street, leaving uncollected trash behind.",Waste Management,Medium
+Residents are required to submit too many unnecessary documents for simple transactions.,Procedural and Operational Issues,Low
+Sobrang daming hinihinging dokumento para sa simpleng transaksyon sa barangay.,Procedural and Operational Issues,Low
+Barangay officials refuse to release details of expenses for the fiesta celebration.,Governance and Integrity Concerns,High
+Ayaw ilabas ng mga opisyal ng barangay ang detalye ng gastos para sa piyesta.,Governance and Integrity Concerns,High
+Good day. I would like to report the large pothole right in front of the barangay hall. It has been there for weeks and is causing problems for both motorists and pedestrians. It looks unsightly in front of the government office and may cause accidents if left unrepaired. We hope immediate action can be taken to fix it.,Roads & Infrastructure,High
+Magandang araw. Nais ko pong ireport ang malaking butas sa harap mismo ng barangay hall. Matagal na po itong naroroon at nagdudulot ng abala sa mga motorista at pedestrian. Hindi rin maganda tingnan sa tapat ng opisina ng gobyerno at maaaring magdulot ng aksidente kung hindi maaayos agad. Umaasa kami na agad itong aksyunan.,Roads & Infrastructure,High
+"The road going to the public market is badly damaged, making it difficult for vendors, buyers, and delivery vehicles to pass through. This affects businesses and daily activities of residents. We request urgent repairs so that the road becomes safe and accessible again.",Roads & Infrastructure,High
+"Sira-sira na ang kalsadang papunta sa palengke, kaya nahihirapan ang mga nagtitinda, mamimili, at delivery trucks na dumaan. Naaapektuhan nito ang kabuhayan at pang-araw-araw na gawain ng mga residente. Nais naming hilingin na ito ay agarang ayusin upang maging ligtas at magamit muli",Roads & Infrastructure,High
+"The road in our area is filled with multiple potholes that make driving and even walking extremely unsafe. Motorcycles and tricycles often swerve suddenly to avoid them, which could easily cause accidents. We hope the local government can prioritize resurfacing this road for the safety of everyone",Roads & Infrastructure,High
+Puno ng mga butas ang kalsada sa aming lugar kaya delikado ang pagmamaneho at maging ang paglalakad. Madalas biglang umiwas ang mga motorsiklo at traysikel kaya nagiging peligroso. Sana ay unahin ng lokal na pamahalaan ang pag-aayos at pagpapatag ng kalsada para sa kaligtasan ng lahat,Roads & Infrastructure,High
+"We would like to raise our concern about the damaged bridge in our community. The cracks and unstable parts make it unsafe to cross, especially for children and elderly residents. Since it is a main passageway, this poses serious risks. Immediate repairs are necessary before any accident happens",Roads & Infrastructure,High
+"Nais naming iparating ang aming hinaing tungkol sa sira-sirang tulay sa aming komunidad. May mga bitak at hindi matibay na bahagi kaya delikadong tawirin lalo na ng mga bata at matatanda. Dahil ito ang pangunahing daanan, malaking panganib ang dala nito. Kailangan itong ayusin agad bago may mangyaring aksidente.",Roads & Infrastructure,High
+A section of the road has collapsed and has been left unrepaired for a long time. It blocks access and forces drivers to take longer routes. The area is also dangerous at night since there are no proper warning signs. We appeal for urgent repairs to restore safe passage.,Roads & Infrastructure,High
+May bahagi ng kalsada na gumuho at matagal nang hindi naayos. Nagsisilbi itong harang at napipilitan ang mga motorista na magdetour ng mas malayo. Mapanganib din ito lalo na sa gabi dahil walang tamang babala. Hinihiling namin na ito ay agarang kumpunihin upang maging ligtas ang daan.,Roads & Infrastructure,High
+"The road leading to the local school is full of potholes, making it difficult and unsafe for children to walk or commute every day. During rainy days, the holes fill with water, making the road muddy and slippery. We hope this can be fixed soon for the safety of the students.",Roads & Infrastructure,High
+"Puno ng butas ang kalsadang papunta sa paaralan kaya mahirap at delikado para sa mga bata na maglakad o bumiyahe araw-araw. Tuwing umuulan, napupuno ng tubig ang mga butas kaya nagiging maputik at madulas ang daan. Umaasa kami na maaayos ito agad para sa kaligtasan ng mga mag-aaral.",Roads & Infrastructure,High
+"The road widening project that started months ago has been left unfinished. Construction materials are still lying around, and the road is only half usable, which causes traffic congestion. Residents are frustrated because there is no clear update on when it will be completed. We ask for accountability and action.",Roads & Infrastructure,Medium
+"Ang proyekto ng pagpapalapad ng kalsada na sinimulan ilang buwan na ang nakalilipas ay hindi natapos. Nakasabit pa rin ang mga materyales sa kalsada at kalahati lang ang nagagamit, kaya nagdudulot ng trapiko. Naiinis na ang mga residente dahil wala ring malinaw na update kung kailan matatapos. Nais naming humingi ng paliwanag at agarang aksyon.",Roads & Infrastructure,Medium
+"After the recent heavy rains, the highway in our area has suffered major damage with cracks and potholes appearing everywhere. This makes travel unsafe for private vehicles and public transport alike. We urge the government to repair the damage immediately before more accidents occur.",Roads & Infrastructure,High
+"Matapos ang malakas na ulan kamakailan, malubha ang naging pinsala sa highway sa aming lugar. May mga bitak at butas sa iba’t ibang bahagi na nagiging sanhi ng panganib sa mga sasakyan, pampubliko man o pribado. Nananawagan kami sa pamahalaan na ito’y agarang ayusin bago pa lumala ang aksidente.",Roads & Infrastructure,High
+"The road in our community has long cracks that make driving unsafe, especially for motorcycles. If not fixed soon, the cracks may worsen and cause bigger problems. We hope repairs can be scheduled before the damage becomes more costly and hazardous.",Roads & Infrastructure,High
+"May mahahabang bitak ang kalsada sa aming lugar na nagiging sanhi ng panganib sa pagmamaneho, lalo na sa mga motorsiklo. Kung hindi agad maaayos, posibleng lumala pa ito at magdulot ng mas malaking pinsala. Sana ay maisama agad sa schedule ng pagkukumpuni.",Roads & Infrastructure,High
+"Many of the roads in our barangay remain unpaved, making access difficult for residents, especially during the rainy season when the path becomes muddy and slippery. This situation greatly affects transportation, especially for students and workers. We hope the roads can finally be paved.",Roads & Infrastructure,High
+"Marami pa ring hindi sementadong kalsada sa aming barangay kaya mahirap ang pagdaan, lalo na kapag tag-ulan dahil nagiging putikan at madulas ang daan. Malaki ang epekto nito sa transportasyon, lalo na sa mga estudyante at manggagawa. Umaasa kami na masemento na ito.",Roads & Infrastructure,Medium
+"Hindi na dumadaan sa tamang ruta ang mga jeep sa barangay plaza. Ang daming commuters ang nahihirapan kasi kailangan pa nilang maglakad ng malayo bago makasakay. Nakakaapekto ito lalo na sa mga estudyante, senior citizens, at mga empleyado na nagmamadali papasok. Bukod pa rito, nagiging mas magulo ang traffic flow dahil sa pagbabago ng ruta na walang malinaw na abiso. Sana makialam ang barangay at i-regulate ang mga jeep para bumalik sila sa tamang ruta at hindi mahirapan ang mga residente.",Transportation,Low
+Yung tricycle na sinakyan ko sobrang mahal maningil ng pamasahe. Hindi siya tumutugma sa standard fare na dapat sinusunod ng mga drivers. Nakakabigat ito sa mga pasahero lalo na yung araw-araw nagcocommute papasok sa trabaho o school. Wala ring malinaw na fare matrix na naka-display kaya parang arbitrary lang ang singil. Sana magkaroon ng mas mahigpit na monitoring at regulation para hindi maabuso ang mga commuters at maging fair ang pamasahe para sa lahat.,Transportation,Medium
+"Public transport fares have increased unfairly without clear justification. This is burdensome for commuters, especially those who travel daily to work or school. The quality of service has not improved—vehicles are often in poor condition, there are not enough units, and the rides remain crowded. We hope that authorities provide a clear explanation for the fare increase and ensure transparency and proper consultation before implementing additional charges.",Transportation,High
+"Walang sapat na tricycle na available sa harap ng eskwelahan tuwing gabi. Maraming estudyante at guro ang nahihirapan umuwi dahil limitado ang mga sasakyan, lalo na kapag gabi at medyo delikado na ang paligid. Kadalasan, napipilitan pa silang maghintay ng matagal o maglakad ng malayo para makahanap ng tricycle. Sana ay masiguro ng barangay o transport authorities na may sapat na tricycle service sa gabi para sa kaligtasan at kaginhawaan ng lahat.",Transportation,High
+"There are not enough tricycles available in front of the school at night. Many students and teachers have difficulty going home because the number of vehicles is limited, especially at night when the area is somewhat unsafe. Often, they are forced to wait for a long time or walk a long distance to find a tricycle. We hope the barangay or transport authorities can ensure adequate tricycle service at night for the safety and convenience of everyone.""",Transportation,High
+"Walang sapat na tricycle sa harap ng eskwelahan tuwing gabi. Nahihirapan ang maraming estudyante at guro na umuwi dahil limitado ang bilang ng sasakyan, lalo na sa gabi kapag delikado ang paligid. Madalas, napipilitan silang maghintay nang matagal o maglakad ng malayo para makahanap ng tricycle. Sana ay masiguro ng barangay o transport authorities na may sapat na tricycle service sa gabi para sa kaligtasan at kaginhawaan ng lahat.",Transportation,High
+Yung tricycle na sinakyan ko sobrang mahal maningil ng pamasahe. Hindi siya tumutugma sa standard fare na dapat sinusunod ng mga drivers. Nakakabigat ito sa mga pasahero lalo na yung araw-araw nagcocommute papasok sa trabaho o school. Wala ring malinaw na fare matrix na naka-display kaya parang arbitrary lang ang singil. Sana magkaroon ng mas mahigpit na monitoring at regulation para hindi maabuso ang mga commuters at maging fair ang pamasahe para sa lahat.,Transportation,Medium
+"The tricycle I rode charged an excessively high fare. The price did not match the standard rates that drivers are supposed to follow. This creates a financial burden for passengers, especially those who commute daily to work or school. There is also no clear fare matrix displayed, making the charges seem arbitrary. We hope there will be stricter monitoring and regulation to ensure fair fares for everyone.",Transportation,Medium
+"Mahal ang singil ng tricycle na sinakyan ko. Hindi ito tumutugma sa standard na pamasahe na dapat sinusunod ng mga drivers. Mabigat ito sa bulsa ng mga pasahero, lalo na yung araw-araw nagcocommute papunta sa trabaho o paaralan. Wala ring malinaw na fare matrix kaya parang arbitrary lang ang singil. Sana magkaroon ng mas mahigpit na monitoring at regulation para maging patas ang pamasahe para sa lahat.",Transportation,Medium
+"Laging puno ang bus at hindi humihinto sa barangay plaza. Maraming commuters ang nahihirapang makasakay, lalo na yung mga estudyante at manggagawa. Kadalasan, napipilitan silang maghintay ng matagal o maglakad ng malayo para sumakay sa susunod na bus. Sana ay masiguro ng transport authorities na humihinto ang mga bus sa tamang ruta at may sapat na seating para sa lahat ng pasahero.",Transportation,High
+"The buses are always full and do not stop at the barangay plaza. Many commuters, especially students and workers, have difficulty boarding. Often, they are forced to wait a long time or walk a long distance to catch the next bus. We hope the transport authorities can ensure that buses stop at the correct routes and provide enough seating for all passengers.""",Transportation,High
+"Laging puno ang bus at hindi humihinto sa barangay plaza. Nahihirapan ang maraming commuters, lalo na ang mga estudyante at manggagawa, na makasakay. Madalas, napipilitan silang maghintay ng matagal o maglakad ng malayo para sa susunod na bus. Sana tiyakin ng transport authorities na humihinto ang mga bus sa tamang ruta at may sapat na upuan para sa lahat ng pasahero.",Transportation,High
+Ang traffic sa harap ng palengke sobrang heavy tuwing peak hours. Maraming commuters at motorists ang nahihirapan dahil mabagal ang daloy ng trapiko. Sana ay magkaroon ng mas maayos na traffic management para hindi na masyadong congested ang lugar.,Transportation,High
+The traffic in front of the market is extremely heavy during peak hours. Many commuters and motorists are having difficulty because the traffic flow is very slow. We hope there will be better traffic management to reduce congestion.,Transportation,High
+ng trapiko sa harap ng palengke ay sobrang sikip tuwing peak hours. Nahihirapan ang maraming commuters at motorista dahil mabagal ang daloy ng trapiko. Sana ay magkaroon ng mas maayos na traffic management upang mabawasan ang congestion.,Transportation,High
+Madaling blocked ang intersections dahil sa mga jeep na nagpipila at hindi sumusunod sa tamang traffic rules. Nagdudulot ito ng delay sa mga motorista at pasahero. Sana ay mas mahigpit na i-monitor ang mga jeep at ayusin ang flow ng trapiko.,Transportation,High
+Intersections are often blocked by jeepneys that line up improperly and do not follow traffic rules. This causes delays for motorists and passengers. We hope jeepneys are strictly monitored and traffic flow is improved.,Transportation,Medium
+Madaling ma-block ang mga intersection dahil sa mga jeep na hindi sumusunod sa tamang traffic rules. Nagdudulot ito ng pagkaantala sa mga motorista at pasahero. Sana ay mahigpit na i-monitor ang mga jeep at ayusin ang daloy ng trapiko.,Transportation,Medium
+Maraming kalsada ang walang malinaw na traffic signs kaya nagiging sanhi ng aksidente at kalituhan sa drivers. Sana ay lagyan ng proper signs ang mga kalsada para maging maayos ang daloy ng trapiko.,Transportation,Medium
+"Many roads lack clear traffic signs, causing accidents and confusion among drivers. We hope proper signs are installed to ensure smooth traffic flow.",Transportation,High
+Maraming kalsada ang walang malinaw na traffic signs kaya nagdudulot ng aksidente at kalituhan sa mga driver. Sana ay ilagay ang tamang signs para maayos ang daloy ng trapiko.,Transportation,High
+Walang maayos na pedestrian lanes sa maraming streets kaya delikado para sa mga naglalakad. Madalas silang mapapadaan sa gitna ng trapiko. Sana ay lagyan ng proper sidewalks o lanes para sa kaligtasan ng pedestrians.,Transportation,High
+"There are no proper pedestrian lanes on many streets, making it dangerous for people walking. They often have to cross through traffic. We hope proper sidewalks or lanes are installed for pedestrian safety.",Transportation,Medium
+Maraming kalye ang walang maayos na pedestrian lanes kaya delikado para sa mga naglalakad. Kadalasan ay napipilitan silang tumawid sa gitna ng trapiko. Sana ay maglagay ng tamang sidewalks o lanes para sa kaligtasan ng pedestrians.,Transportation,Medium
+"During the rainy season, roads in our barangay are often flooded. It is difficult for motorcycles and tricycles to pass, and it is also dangerous for pedestrians. We hope the barangay ensures a proper drainage system to prevent frequent flooding and keep residents safe.",Transportation,High
+"Tuwing umuulan, mabilis mabulabog ang kalsada dahil sa baha sa aming barangay. Mahirap dumaan lalo na sa mga motor at tricycle, at delikado rin para sa mga naglalakad. Sana ay masiguro ng barangay na may maayos na drainage system para hindi lagi itong bumaha at maging ligtas ang mga residente.",Transportation,High
+"Tuwing tag-ulan, madalas bumaha sa mga kalsada ng aming barangay. Mahirap dumaan lalo na sa mga motor at tricycle, at delikado rin para sa mga naglalakad. Sana ay masiguro ng barangay ang maayos na drainage system para hindi na lagi itong bumaha at maging ligtas ang mga residente.",Transportation,High
+"Sana maayos na ang baha sa harap ng school para makadaan ng maayos ang mga estudyante. Tuwing umuulan, nahihirapan silang maglakad dahil basa at maputik ang daan. Delikado rin ito, lalo na para sa mga bata. Sana ay mapabilis ang pag-aayos ng drainage o daan para safe at accessible ang ruta ng mga estudyante.",Transportation,High
+"We hope the flooding in front of the school is fixed so students can pass safely. During rainy days, walking becomes difficult because the road is wet and muddy. It is also dangerous, especially for children. We hope the drainage or road can be repaired quickly to make the route safe and accessible for students.",Transportation,High
+"Sana ay maayos na ang baha sa harap ng paaralan para makadaan nang maayos ang mga estudyante. Tuwing umuulan, nahihirapan silang maglakad dahil basa at maputik ang daan. Delikado rin ito, lalo na para sa mga bata. Sana ay mapabilis ang pag-aayos ng drainage o daan para maging ligtas at accessible ang ruta ng mga estudyante.",Transportation,High
+Yung mga electric posts na sira o hindi naayos ay delikado para sa mga residente. May mga exposed wires at may posibilidad pang bumagsak lalo na kapag umuulan o may malakas na hangin. Nakakatakot para sa mga bata at kahit sa mga naglalakad o nagmamaneho. Sana ay agarang ma-repair o mapalitan ang mga sira na poste para maging safe ang lugar.,Electricity Services,High
+"The broken or unrepaired electric posts pose a danger to residents. There are exposed wires and they could fall, especially during rain or strong winds. This is frightening for children and also dangerous for pedestrians and motorists. We hope the damaged posts will be repaired or replaced immediately to ensure the area is safe.",Electricity Services,High
+Ang mga sira o hindi naayos na electric posts ay nagdudulot ng panganib sa mga residente. May mga exposed wires at maaari pang bumagsak lalo na kapag umuulan o may malakas na hangin. Delikado ito para sa mga bata at sa mga naglalakad o nagmamaneho. Sana ay agad ma-repair o mapalitan ang mga sira na poste para maging ligtas ang lugar.,Electricity Services,High
+Walang kuryente sa amin simula kahapon dahil sa bagyo. Napakahirap lalo na para sa mga estudyante na kailangan mag-aral sa gabi at sa mga pamilya na kailangan ang kuryente sa pang-araw-araw na gawain. Sana ay maibalik agad ang kuryente at may malinaw na update kung gaano katagal bago ito maayos.,Electricity Services,Medium
+"There has been no electricity in our area since yesterday due to the storm. This is very difficult, especially for students who need to study at night and for families who rely on electricity for daily activities. We hope the power will be restored soon and that there will be clear updates on how long the outage will last.""",Electricity Services,Medium
+Walang kuryente sa amin simula kahapon dahil sa bagyo. Napakahirap nito lalo na para sa mga estudyante na kailangang mag-aral sa gabi at sa mga pamilya na umaasa sa kuryente sa pang-araw-araw na gawain. Sana ay maibalik agad ang kuryente at magkaroon ng malinaw na update kung gaano katagal bago ito maayos.,Electricity Services,Medium
+Sirang poste ng ilaw sa kanto ng eskwelahan ang delikado para sa mga estudyante at residente. Madilim ang paligid tuwing gabi kaya mataas ang panganib na may aksidente o masamang mangyari. Sana ay ma-repair o mapalitan agad ang poste para maging ligtas ang daan at paligid ng paaralan.,Electricity Services,Medium
+"The streetlight post at the corner of the school is broken, posing a danger to students and residents. The area becomes very dark at night, increasing the risk of accidents or other incidents. We hope the post will be repaired or replaced promptly to make the road and school surroundings safe.",Electricity Services,Medium
+Ang poste ng ilaw sa kanto ng eskwelahan ay sira at delikado para sa mga estudyante at residente. Madilim ang paligid tuwing gabi kaya mataas ang panganib ng aksidente o ibang insidente. Sana ay maayos o mapalitan agad ang poste para maging ligtas ang daan at paligid ng paaralan.,Electricity Services,Medium
+Mahal ang singil sa kuryente sa aming lugar. Nakakabigat ito lalo na sa mga pamilyang araw-araw umaasa sa kuryente para sa kanilang pang-araw-araw na pangangailangan. Wala ring malinaw na paliwanag kung bakit tumaas ang singil. Sana ay magbigay ang electric company ng klarong breakdown ng charges at masiguro na patas at makatwiran ang singil sa lahat ng consumers.,Overpricing,Medium
+"The electricity charges in our area are very high. This is burdensome, especially for families who rely on electricity for daily needs. There is also no clear explanation as to why the rates increased. We hope the electric company provides a clear breakdown of charges and ensures that the rates are fair and reasonable for all consumers.",Overpricing,Medium
+Mahal ang singil sa kuryente sa aming lugar. Mabigat ito lalo na sa mga pamilyang umaasa sa kuryente sa kanilang pang-araw-araw na pangangailangan. Wala ring malinaw na paliwanag kung bakit tumaas ang singil. Sana ay magbigay ang electric company ng malinaw na breakdown ng charges at masiguro na patas at makatwiran ang singil para sa lahat ng consumers.,Overpricing,Medium
+"""Yung mga streetlights sa main road hindi gumagana. Madilim tuwing gabi kaya delikado para sa mga motorista at pedestrian. Mas mataas ang risk ng aksidente at kriminalidad sa lugar. Sana ay ma-repair agad ang mga streetlights para maging ligtas ang daan para sa lahat.""",Electricity Services,Medium
+"The streetlights on the main road are not functioning. The area becomes very dark at night, making it dangerous for motorists and pedestrians. The risk of accidents and criminal activity is higher in the area. We hope the streetlights will be repaired promptly to make the road safe for everyone.",Electricity Services,Medium
+Ang mga streetlights sa main road ay hindi gumagana. Madilim tuwing gabi kaya delikado para sa mga motorista at pedestrian. Mas mataas ang panganib ng aksidente at kriminalidad sa lugar. Sana ay maayos agad ang mga streetlights para maging ligtas ang daan para sa lahat.,Electricity Services,Medium
+"Madaling brownout sa aming lugar at palaging nangyayari, kaya helpless ang community. Nawawalan kami ng kuryente kahit sa mga basic na pangangailangan tulad ng pag-aaral, pagluluto, at trabaho sa bahay. Nakakaapekto rin ito sa mga negosyo at sa kaligtasan ng mga residente. Sana ay masiguro ng electric company ang stable at reliable na supply ng kuryente.",Electricity Services,High
+"Frequent brownouts occur in our area, leaving the community helpless. We lose electricity even for basic needs such as studying, cooking, and working from home. This also affects businesses and the safety of residents. We hope the electric company ensures a stable and reliable power supply",Electricity Services,High
+"Palaging brownout sa aming lugar kaya helpless ang community. Nawawalan kami ng kuryente kahit sa mga basic na pangangailangan tulad ng pag-aaral, pagluluto, at trabaho sa bahay. Apektado rin ang mga negosyo at ang kaligtasan ng mga residente. Sana ay masiguro ng electric company ang stable at reliable na supply ng kuryente.",Electricity Services,High
+Sumabog yung transformer sa aming barangay kaya nawalan ng kuryente ang buong area. Delikado ito dahil may mga exposed wires at maaaring magdulot ng aksidente o sunog. Nahirapan ang mga residente lalo na sa gabi at naapektuhan ang daily activities at negosyo. Sana ay agarang maayos o mapalitan ang transformer at maibalik ang kuryente sa lalong madaling panahon.,Electricity Services,High
+"A transformer exploded in our barangay, causing a blackout in the entire area. This is dangerous due to exposed wires and the risk of accidents or fire. Residents have been inconvenienced, especially at night, and daily activities and businesses have been affected. We hope the transformer will be repaired or replaced immediately and that power will be restored as soon as possible.",Electricity Services,High
+Sumabog ang transformer sa aming barangay kaya nawalan ng kuryente ang buong lugar. Delikado ito dahil may mga exposed wires at maaaring magdulot ng aksidente o sunog. Nahirapan ang mga residente lalo na sa gabi at naapektuhan ang pang-araw-araw na gawain at negosyo. Sana ay agad maayos o mapalitan ang transformer at maibalik ang kuryente sa lalong madaling panahon.,Electricity Services,High
+"""Pinutol ang kuryente sa aming lugar nang walang abiso. Nahirapan ang mga residente lalo na sa mga estudyante, pamilya, at negosyo na umaasa sa kuryente para sa daily activities. Sana ay magbigay ang electric company ng malinaw na notice o warning bago putulin ang kuryente para makapaghanda ang lahat.",Electricity Services,High
+"The electricity in our area was cut off without prior notice. Residents, especially students, families, and businesses, were greatly inconvenienced as they rely on power for daily activities. We hope the electric company provides clear notice or warnings before cutting electricity so everyone can prepare.",Electricity Services,High
+"Pinutol ang kuryente sa aming lugar nang walang abiso. Nahirapan ang mga residente, lalo na ang mga estudyante, pamilya, at negosyo na umaasa sa kuryente para sa pang-araw-araw na gawain. Sana ay magbigay ang electric company ng malinaw na abiso o warning bago putulin ang kuryente para makapaghanda ang lahat.",Electricity Services,High
+"Hindi transparent ang pondo sa proyekto sa opisina. Maraming residente ang nagtatanong kung saan napupunta ang pera at wala ring malinaw na ulat o breakdown ng gastos. Dahil dito, nagdududa ang mga tao kung tama ba ang paggamit ng pondo at kung akma sa scope ng proyekto. Sana ay magkaroon ng malinaw na report at public disclosure ang opisina para makita ng lahat kung paano ginagamit ang pondo.",Governance and Integrity Concerns,Medium
+"The funds for the office project are not transparent. Many residents are asking where the money is going, and there is no clear report or breakdown of expenses. Because of this, people are left wondering whether the funds are being used properly and if they match the project’s scope. We hope the office provides a clear report and public disclosure so everyone can see how the funds are being used.",Governance and Integrity Concerns,Medium
+"Hindi transparent ang pondo sa proyekto sa opisina. Maraming residente ang nagtatanong kung saan napupunta ang pera at wala ring malinaw na ulat o breakdown ng gastos. Dahil dito, nagdududa ang mga tao kung tama ba ang paggamit ng pondo at kung akma sa saklaw ng proyekto. Sana ay magkaroon ng malinaw na ulat at public disclosure ang opisina para makita ng lahat kung paano ginagamit ang pondo.",Governance and Integrity Concerns,Medium
+"Humihingi ng suhol ang mga opisyal para ma-release ang mga dokumento sa city hall. Nakakafrustrate ito sa mga residente na kailangan ang mga papeles para sa trabaho, paaralan, o iba pang pangangailangan. Sana ay masiguro ng city hall na walang corruption at may malinaw na proseso para makuha ang dokumento nang walang dagdag na bayad.",Governance and Integrity Concerns,High
+"Officials are asking for bribes to release documents at city hall. This is frustrating for residents who need these papers for work, school, or other essential needs. We hope the city hall ensures that there is no corruption and that a clear process is in place to obtain documents without additional charges.",Governance and Integrity Concerns,High
+"Humihingi ng suhol ang mga opisyal para ma-release ang mga dokumento sa city hall. Nakakafrustrate ito sa mga residente na kailangan ang mga papeles para sa trabaho, paaralan, o iba pang pangangailangan. Sana ay masiguro ng city hall na walang corruption at may malinaw na proseso para makuha ang dokumento nang walang dagdag na bayad.",Governance and Integrity Concerns,High
+Humihingi ng personal na pabor ang mga opisyal bago aprubahan ang mga papeles o proyekto. Nakakafrustrate ito sa mga residente dahil hindi patas ang proseso at naaapektuhan ang kanilang mga pangangailangan. Sana ay masiguro ng city hall o barangay na patas ang approval process at walang personal gain ang mga opisyal.,Governance and Integrity Concerns,High
+Officials demand personal favors before approving documents or projects. This is frustrating for residents because the process becomes unfair and affects their needs. We hope the city hall or barangay ensures that the approval process is fair and that officials do not gain personally from it.,Governance and Integrity Concerns,High
+Humihingi ng personal na pabor ang mga opisyal bago aprubahan ang mga papeles o proyekto. Nakakafrustrate ito sa mga residente dahil hindi patas ang proseso at naaapektuhan ang kanilang pangangailangan. Sana ay masiguro ng city hall o barangay na patas ang approval process at walang personal na pakinabang ang mga opisyal.,Governance and Integrity Concerns,High
+"Humihingi ng pera ang mga opisyal para mapabilis ang proseso ng dokumento sa city hall. Nakakafrustrate ito sa mga residente lalo na kung kailangan nila ang papeles agad para sa trabaho, paaralan, o ibang mahahalagang pangangailangan. Sana ay masiguro ng city hall na walang corruption at may malinaw na proseso para makuha ang dokumento nang patas at walang dagdag na singil.",Governance and Integrity Concerns,High
+"Officials are asking for money to speed up the processing of documents at city hall. This is frustrating for residents, especially when they need papers urgently for work, school, or other essential needs. We hope the city hall ensures there is no corruption and that a clear process is in place to obtain documents fairly without additional charges",Governance and Integrity Concerns,High
+"Humihingi ng pera ang mga opisyal para mapabilis ang proseso ng dokumento sa city hall. Nakakafrustrate ito sa mga residente lalo na kung kailangan nila ang papeles agad para sa trabaho, paaralan, o ibang mahahalagang pangangailangan. Sana ay masiguro ng city hall na walang corruption at may malinaw na proseso para makuha ang dokumento nang patas at walang dagdag na singil.",Governance and Integrity Concerns,High
+Maraming korapsyon sa mga proyekto ng gobyerno sa barangay. Hindi malinaw kung saan napupunta ang pondo at madalas kulang o sira ang resulta kumpara sa perang inilaan. Nakakafrustrate ito sa mga residente na umaasa sa maayos at patas na proyekto. Sana ay masiguro ng lokal na pamahalaan ang transparency at accountability sa lahat ng proyekto.,Governance and Integrity Concerns,High
+"There is widespread corruption in government projects in the barangay. It is unclear where the funds are going, and often the results are incomplete or substandard compared to the allocated budget. This frustrates residents who rely on fair and properly executed projects. We hope the local government ensures transparency and accountability in all projects.",Governance and Integrity Concerns,High
+Maraming korapsyon sa mga proyekto ng gobyerno sa barangay. Hindi malinaw kung saan napupunta ang pondo at madalas kulang o sira ang resulta kumpara sa inilaan na budget. Nakakafrustrate ito sa mga residente na umaasa sa maayos at patas na proyekto. Sana ay masiguro ng lokal na pamahalaan ang transparency at accountability sa lahat ng proyekto.,Governance and Integrity Concerns,High
+May katiwalian sa pagkuha ng permit sa munisipyo. Humihingi ng suhol at personal na pabor ang ilang opisyal bago maaprubahan ang mga permit. Nakakafrustrate ito sa mga residente at negosyo na sumusunod sa tamang proseso. Sana ay masiguro ng munisipyo na patas at transparent ang proseso ng pagkuha ng permit para sa lahat.,Governance and Integrity Concerns,High
+There is corruption in obtaining permits at the municipality. Some officials ask for bribes or personal favors before approving permits. This frustrates residents and businesses who follow the proper process. We hope the municipality ensures that the permit process is fair and transparent for everyone.,Governance and Integrity Concerns,High
+May katiwalian sa pagkuha ng permit sa munisipyo. Humihingi ng suhol at personal na pabor ang ilang opisyal bago maaprubahan ang mga permit. Nakakafrustrate ito sa mga residente at negosyo na sumusunod sa tamang proseso. Sana ay masiguro ng munisipyo na patas at transparent ang proseso ng pagkuha ng permit para sa lahat.,Governance and Integrity Concerns,High
+"""Nanghihingi ng lagay sa barangay ang ilang opisyal bago maaprubahan ang mga request o dokumento ng mga residente. Nakakafrustrate ito at hindi patas para sa mga taong sumusunod sa tamang proseso. Sana ay masiguro ng barangay na walang katiwalian at transparent ang proseso para sa lahat.",Governance and Integrity Concerns,Medium
+"There is widespread corruption in government projects in the barangay. It is unclear where the funds are going, and often the results are incomplete or substandard compared to the allocated budget. This frustrates residents who rely on fair and properly executed projects. We hope the local government ensures transparency and accountability in all projects.""",Governance and Integrity Concerns,Medium
+Maraming korapsyon sa mga proyekto ng gobyerno sa barangay. Hindi malinaw kung saan napupunta ang pondo at madalas kulang o sira ang resulta kumpara sa inilaan na budget. Nakakafrustrate ito sa mga residente na umaasa sa maayos at patas na proyekto. Sana ay masiguro ng lokal na pamahalaan ang transparency at accountability sa lahat ng proyekto.,Governance and Integrity Concerns,Medium
+Nag-iisyu ng fake receipts ang ilang opisyal sa barangay o city hall. Nakakafrustrate at nakakasama sa mga residente dahil nagdududa kung tama ba ang gastos at kung nasusunod ang transparency sa pondo. Sana ay masiguro ng mga awtoridad na lahat ng resibo ay lehitimo at may tamang dokumentasyon para protektado ang mga residente.,Governance and Integrity Concerns,High
+Some officials in the barangay or city hall issue fake receipts. This is frustrating and harmful to residents because it raises doubts about whether funds are used correctly and whether transparency is being followed. We hope the authorities ensure that all receipts are legitimate and properly documented to protect residents.,Governance and Integrity Concerns,High
+Nag-iisyu ng pekeng resibo ang ilang opisyal sa barangay o city hall. Nakakafrustrate at nakasasama sa mga residente dahil nagdududa kung tama ba ang paggamit ng pondo at kung nasusunod ang transparency. Sana ay masiguro ng mga awtoridad na lahat ng resibo ay lehitimo at may tamang dokumentasyon para protektado ang mga residente.,Governance and Integrity Concerns,High
+"May katiwalian sa bidding ng mga proyekto ng gobyerno. Madalas ang mga kontrata ay napupunta sa hindi karapat-dapat o konektadong kumpanya, imbes na sa mga may tamang kakayahan at experience. Nakakafrustrate ito at nakakasama sa kalidad ng proyekto. Sana ay masiguro ng lokal na pamahalaan ang patas at transparent na bidding process para sa lahat.",Governance and Integrity Concerns,High
+"There is corruption in government project bidding. Often, contracts go to undeserving or connected companies instead of those with the proper skills and experience. This is frustrating and affects the quality of projects. We hope the local government ensures a fair and transparent bidding process for everyone.",Governance and Integrity Concerns,High
+"May katiwalian sa bidding ng mga proyekto ng gobyerno. Madalas ang mga kontrata ay napupunta sa hindi karapat-dapat o konektadong kumpanya, imbes na sa mga may tamang kakayahan at karanasan. Nakakafrustrate ito at nakakasama sa kalidad ng proyekto. Sana ay masiguro ng lokal na pamahalaan ang patas at transparent na proseso ng bidding para sa lahat.",Governance and Integrity Concerns,High
+"Sobra ang singil sa bigas sa palengke. Nakakabigat ito sa mga pamilya lalo na sa araw-araw na gastusin. Wala ring malinaw na paliwanag kung bakit tumaas ang presyo, at parang hindi makatarungan sa mga mamimili. Sana ay magkaroon ng monitoring ang DTI o local authorities para maging patas ang presyo sa palengke.",Overpricing,High
+"Hindi binabayaran ng tama ang sahod ng mga manggagawa. Maraming empleyado ang nakararanas ng delayed o kulang na sahod, kahit na tinatrabaho nila ang buong oras o over time. Nakakafrustrate ito at nakakaapekto sa kanilang pang-araw-araw na pamumuhay. Sana ay masiguro ng mga employer at ng DOLE na tama at on-time ang sahod ng lahat ng manggagawa.",Workforce Concerns,Medium
+"Workers are not being paid correctly. Many employees experience delayed or underpaid wages, even though they work full hours or overtime. This is frustrating and affects their daily lives. We hope employers and the Department of Labor ensure that all workers receive correct and timely wages.",Workforce Concerns,Medium
+"Hindi binabayaran ng tama ang sahod ng mga manggagawa. Maraming empleyado ang nakararanas ng delayed o kulang na sahod, kahit na tinatrabaho nila ang buong oras o overtime. Nakakafrustrate ito at nakakaapekto sa kanilang pang-araw-araw na pamumuhay. Sana ay masiguro ng mga employer at ng DOLE na tama at on-time ang sahod ng lahat ng manggagawa.",Workforce Concerns,Medium
+Ang mga essential goods sa mga tindahan ay sobra ang presyo. Nakakabigat ito sa mga pamilya lalo na sa pang-araw-araw na gastusin. Wala ring malinaw na paliwanag kung bakit tumaas ang presyo at nakakaapekto ito sa budget ng mga residente. Sana ay masiguro ng DTI o local authorities na makatwiran at patas ang presyo ng mga pangunahing bilihin.,Overpricing,High
+"Essential goods in stores are overpriced. This is burdensome for families, especially for daily expenses. There is no clear explanation for the price increase, and it affects residents’ budgets. We hope the DTI or local authorities ensure that the prices of basic goods are reasonable and fair.""",Overpricing,High
+Ang mga pangunahing bilihin sa mga tindahan ay sobra ang presyo. Mabigat ito sa mga pamilya lalo na sa pang-araw-araw na gastusin. Wala ring malinaw na paliwanag kung bakit tumaas ang presyo at nakakaapekto ito sa budget ng mga residente. Sana ay masiguro ng DTI o lokal na pamahalaan na makatwiran at patas ang presyo ng mga pangunahing bilihin.,Overpricing,High
+Ang mga manggagawa ay nae-exploit sa sobrang haba ng oras ng trabaho. Madalas hindi binibigyan ng tamang break o overtime pay ang mga empleyado kahit nagtatrabaho sila nang sobra. Nakakaapekto ito sa kanilang kalusugan at personal na buhay.,Workforce Concerns,High
+Workers are exploited with excessively long working hours. Employees are often not given proper breaks or overtime pay even when they work beyond their scheduled hours. This affects their health and personal life.,Workforce Concerns,High
+Ang mga manggagawa ay nae-exploit sa sobrang haba ng oras ng trabaho. Madalas hindi binibigyan ng tamang break o overtime pay ang mga empleyado kahit nagtatrabaho sila nang sobra. Nakakaapekto ito sa kanilang kalusugan at personal na buhay.,Workforce Concerns,High
+"Pinapapasok ang mga manggagawa kahit holiday pero walang overtime pay. Nakakafrustrate ito at unfair para sa mga empleyado na nagbibigay ng kanilang oras at effort. Nakakaapekto rin ito sa kanilang personal na buhay at kalusugan. Sana ay masiguro ng mga employer at ng DOLE na binabayaran ang tamang overtime, lalo na kapag holiday.",Workforce Concerns,High
+"Workers are required to report to work on holidays without receiving overtime pay. This is frustrating and unfair to employees who give their time and effort. It also affects their personal life and health. We hope employers and the Department of Labor ensure proper payment for overtime, especially on holidays.",Workforce Concerns,High
+"Pinapapasok ang mga manggagawa kahit holiday pero walang overtime pay. Nakakafrustrate at hindi patas ito sa mga empleyado na nagbibigay ng kanilang oras at effort. Nakakaapekto rin ito sa kanilang personal na buhay at kalusugan. Sana ay masiguro ng mga employer at ng DOLE na tama ang bayad sa overtime, lalo na kapag holiday.",Workforce Concerns,High
+"Ang pag-apply ng clearances sa city hall o barangay ay tumatagal ng ilang linggo. Nakakafrustrate ito sa mga residente lalo na kung kailangan nila agad ang dokumento para sa trabaho, paaralan, o iba pang mahahalagang pangangailangan. Sana ay mapabilis ang proseso at magkaroon ng malinaw na sistema para mas maging efficient at maayos ang serbisyo.",Procedural and Operational Issues,High
+"Applying for clearances at the city hall or barangay takes several weeks. This is frustrating for residents, especially when they need documents urgently for work, school, or other essential needs. We hope the process can be expedited and that there is a clear system to make the service more efficient and organized.",Procedural and Operational Issues,High
+"Applying for clearances at the city hall or barangay takes several weeks. This is frustrating for residents, especially when they need documents urgently for work, school, or other essential needs. We hope the process can be expedited and that there is a clear system to make the service more efficient and organized.",Procedural and Operational Issues,High
+"Ang proseso sa city hall o barangay ay sobrang komplikado at maraming unnecessary steps. Nakakafrustrate ito sa mga residente at nag-aaksaya ng oras, lalo na kung kailangan nila agad ang dokumento o serbisyo. Sana ay masimple at mas mabilis ang proseso, at magkaroon ng malinaw at efficient na workflow.",Procedural and Operational Issues,High
+Workers are exploited with excessively long working hours. Employees are often not given proper breaks or overtime pay even when they work beyond their scheduled hours. This affects their health and personal life. We hope employers and the Department of Labor ensure correct wages and fair working hours for all workers.,Procedural and Operational Issues,High
+"Ang proseso sa city hall o barangay ay sobrang komplikado at maraming hindi kinakailangang hakbang. Nakakafrustrate ito sa mga residente at nag-aaksaya ng oras, lalo na kung kailangan nila agad ang dokumento o serbisyo. Sana ay masimple at mas mabilis ang proseso, at magkaroon ng malinaw at efficient na daloy ng trabaho.",Procedural and Operational Issues,High
+Palaging offline ang system sa city hall o barangay. Nakakafrustrate ito sa mga residente at empleyado dahil hindi nagagawa agad ang mga dokumento o transaksyon. Sana ay masiguro ng IT department na stable at reliable ang system para mas mabilis at maayos ang serbisyo sa publiko.,Procedural and Operational Issues,Medium
+The system at the city hall or barangay is frequently offline. This is frustrating for residents and employees because documents and transactions cannot be processed promptly. We hope the IT department ensures the system is stable and reliable to provide faster and more efficient public service.,Procedural and Operational Issues,Medium
+Palaging offline ang system sa city hall o barangay. Nakakafrustrate ito sa mga residente at empleyado dahil hindi nagagawa agad ang mga dokumento o transaksyon. Sana ay masiguro ng IT department na stable at reliable ang system para mas mabilis at maayos ang serbisyo sa publiko.,Procedural and Operational Issues,Medium
+"Napakatagal ng proseso ng mga dokumento sa city hall. Pinapaghihintay ng matagal ang mga residente at minsan pinapabalik pa kinabukasan. Nakakafrustrate ito lalo na kung kailangan agad ang dokumento para sa trabaho, paaralan, o iba pang pangangailangan. Sana ay mapabilis ang proseso at maging mas efficient ang serbisyo sa publiko.",Procedural and Operational Issues,High
+"The processing of documents at city hall takes too long. Residents often have to wait for extended periods, and sometimes are asked to return the next day. This is frustrating, especially when documents are urgently needed for work, school, or other essential purposes. We hope the process can be expedited and public services made more efficient.",Procedural and Operational Issues,High
+"Ang proseso sa city hall o barangay ay sobrang komplikado at maraming hindi kinakailangang hakbang. Nakakafrustrate ito sa mga residente at nag-aaksaya ng oras, lalo na kung kailangan nila agad ang dokumento o serbisyo. Sana ay masimple at mas mabilis ang proseso, at magkaroon ng malinaw at efficient na daloy ng trabaho.",Procedural and Operational Issues,High
+"Laging kulang ang staff sa city hall o barangay. Dahil dito, bumabagal ang serbisyo at napapabayaan ang mga residente na nangangailangan ng tulong o dokumento. Nakakafrustrate ito lalo na kung maraming tao ang nag-aabang. Sana ay magdagdag ng sapat na staff para maging mas mabilis at maayos ang serbisyo.",Procedural and Operational Issues,High
+"There is always a shortage of staff at the city hall or barangay. Because of this, services are delayed, and residents needing assistance or documents are neglected. This is frustrating, especially when many people are waiting. We hope additional staff will be provided to ensure faster and more efficient service.""",Procedural and Operational Issues,High
+"Laging kulang ang staff sa city hall o barangay. Dahil dito, bumabagal ang serbisyo at napapabayaan ang mga residente na nangangailangan ng tulong o dokumento. Nakakafrustrate ito lalo na kung maraming tao ang nag-aabang. Sana ay magdagdag ng sapat na staff para maging mas mabilis at maayos ang serbisyo.",Procedural and Operational Issues,High
+"Pinapapasok ang mga residente na magsumite ng sobrang daming dokumento para sa simpleng transaksyon. Nakakafrustrate ito at nag-aaksaya ng oras, lalo na kung kailangan ang serbisyo agad. Sana ay masimple at mas malinaw ang requirements para sa lahat ng transactions sa city hall o barangay.",Procedural and Operational Issues,Medium
+"Residents are required to submit too many unnecessary documents for simple transactions. This is frustrating and wastes time, especially when services are needed urgently. We hope that requirements are simplified and made clear for all transactions at the city hall or barangay.",Procedural and Operational Issues,Medium
+"Pinapapasok ang mga residente na magsumite ng sobrang daming dokumento para sa simpleng transaksyon. Nakakafrustrate ito at nag-aaksaya ng oras, lalo na kung kailangan ang serbisyo agad. Sana ay masimple at mas malinaw ang requirements para sa lahat ng transaksyon sa city hall o barangay.",Procedural and Operational Issues,Medium
+Ang queue management system sa city hall o barangay ay inefficient. Madalas matagal ang paghihintay ng mga residente at nagkakaroon ng kalituhan sa linya. Nakakafrustrate ito lalo na kung maraming tao ang nag-aabang. Sana ay ma-improve ang system para mas mabilis at maayos ang serbisyo sa publiko.,Procedural and Operational Issues,Medium
+"The queue management system at the city hall or barangay is inefficient. Residents often wait for a long time, and there is confusion in the line. This is frustrating, especially when many people are waiting. We hope the system can be improved to provide faster and more organized public service.",Procedural and Operational Issues,Medium
+Ang queue management system sa city hall o barangay ay inefficient. Madalas matagal ang paghihintay ng mga residente at nagkakaroon ng kalituhan sa linya. Nakakafrustrate ito lalo na kung maraming tao ang nag-aabang. Sana ay ma-improve ang system para mas mabilis at maayos ang serbisyo sa publiko.,Procedural and Operational Issues,Medium
+Ang tulay ay nanatiling sira matapos itong bumagsak. Delikado ito para sa mga motorista at pedestrian at nagdudulot ng abala sa daily commute ng mga residente. Sana ay ma-repair agad ang tulay para maging ligtas at maayos ang daloy ng trapiko sa lugar.,Roads & Infrastructure,High
+The bridge remains unrepaired after its collapse. This is dangerous for motorists and pedestrians and causes inconvenience to residents’ daily commute. We hope the bridge will be repaired promptly to ensure safety and smooth traffic flow in the area.,Roads & Infrastructure,High
+Ang tulay ay nanatiling sira matapos itong bumagsak. Delikado ito para sa mga motorista at pedestrian at nagdudulot ng abala sa araw-araw na pag-commute ng mga residente. Sana ay agad maayos ang tulay para maging ligtas at maayos ang daloy ng trapiko sa lugar.,Roads & Infrastructure,High
+Ang road construction ay nagdudulot ng blockage sa trapiko ng ilang linggo. Nakakafrustrate ito sa mga motorista at commuters dahil tumatagal ang biyahe at nagdudulot ng abala sa daily routine. Sana ay mas maayos ang scheduling at traffic management para hindi gaanong maapektuhan ang mga residente.,Roads & Infrastructure,High
+Road construction blocks traffic for several weeks. This is frustrating for motorists and commuters as travel takes longer and disrupts their daily routine. We hope that scheduling and traffic management are improved so that residents are less affected.,Roads & Infrastructure,High
+Ang konstruksyon sa kalsada ay nagdudulot ng bara sa trapiko ng ilang linggo. Nakakafrustrate ito sa mga motorista at commuters dahil tumatagal ang biyahe at naaapektuhan ang pang-araw-araw nilang gawain. Sana ay mas maayos ang scheduling at traffic management para hindi gaanong maapektuhan ang mga residente.,Roads & Infrastructure,High
+"Sira ang tulay papunta sa palengke. Delikado ito para sa mga motorista at pedestrians, at nagdudulot ng abala sa mga residente na bumibili o nagdadala ng produkto. Sana ay ma-repair agad ang tulay para maging ligtas at maayos ang daanan.",Roads & Infrastructure,High
+The bridge leading to the market is damaged. This is dangerous for motorists and pedestrians and causes inconvenience to residents going to the market or transporting goods. We hope the bridge will be repaired promptly to ensure safety and smooth access.,Roads & Infrastructure,High
+"Sira ang tulay papunta sa palengke. Delikado ito para sa mga motorista at pedestrian, at nagdudulot ng abala sa mga residente na bumibili o nagdadala ng produkto. Sana ay agad maayos ang tulay para maging ligtas at maayos ang daanan.",Roads & Infrastructure,High
+Ang road widening project ay naiwanang hindi tapos. Nagdudulot ito ng abala sa trapiko at panganib sa mga motorista at pedestrians. Nakakafrustrate ito sa mga residente dahil hindi natatapos ang proyekto kahit na matagal na itong sinimulan.,Roads & Infrastructure,High
+The road widening project has been left unfinished. This causes traffic congestion and poses risks to motorists and pedestrians. It is frustrating for residents because the project has not been completed despite being started a long time ago.,Roads & Infrastructure,High
+Ang road widening project ay naiwanang hindi tapos. Nagdudulot ito ng abala sa trapiko at panganib sa mga motorista at pedestrian. Nakakafrustrate ito sa mga residente dahil hindi natatapos ang proyekto kahit matagal na itong sinimulan,Roads & Infrastructure,High
+Hindi pa naaaksyunan ang reklamo ko kahit ilang linggo na ang nakalipas. Nakakafrustrate ito lalo na kung mahalaga ang isyu at kailangan ng agarang solusyon.,Service Delays and Inaction,High
+"My complaint has not been acted upon for weeks. This is frustrating, especially when the issue is important and requires immediate attention.",Service Delays and Inaction,High
+Hindi pa naaaksyunan ang reklamo ko kahit ilang linggo na ang nakalipas. Nakakafrustrate ito lalo na kung mahalaga ang isyu at kailangan ng agarang solusyon.,Service Delays and Inaction,High
+"Dalawang buwan na mula nang magsumite kami ng reklamo tungkol sa eskwelahan, pero hanggang ngayon wala pa ring aksyon. Ang ganitong katagal na paghihintay ay nakakadismaya at nagpapakita ng kakulangan sa mabilis na pagtugon ng mga kinauukulan. Sana ay seryosohin ito ng barangay o lokal na pamahalaan at agad na magbigay ng konkretong solusyon para sa kapakanan ng mga estudyante at guro.",Service Delays and Inaction,High
+"It has been two months since we submitted our complaint about the school, but until now, no action has been taken. This long wait is disappointing and shows a lack of urgency from the authorities. We hope the barangay or local government takes this seriously and provides an immediate and concrete solution for the welfare of the students and teachers.",Service Delays and Inaction,High
+"Dalawang buwan na mula nang magsumite kami ng reklamo tungkol sa eskwelahan, ngunit hanggang ngayon wala pa ring aksyon. Ang ganitong katagal na paghihintay ay nakakadismaya at nagpapakita ng kakulangan sa mabilis na pagtugon ng mga kinauukulan. Nawa’y seryosohin ito ng barangay o lokal na pamahalaan at agad na magbigay ng konkretong solusyon para sa kapakanan ng mga estudyante at guro.",Service Delays and Inaction,High
+"Walang timely updates tungkol sa mga service requests na isinubmit ng mga residente. Kadalasan, kailangan pa naming mag-follow up nang paulit-ulit bago kami mabigyan ng impormasyon. Dahil dito, maraming tao ang nagiging frustrated at nagdududa kung natutugunan ba talaga ang kanilang mga concerns. Sana ay magkaroon ng malinaw at regular na updates para maging transparent at maayos ang proseso.",Service Delays and Inaction,High
+"There are no timely updates regarding the service requests submitted by residents. Oftentimes, we have to make repeated follow-ups before we receive any information. This situation leaves many people frustrated and uncertain if their concerns are really being addressed. We hope that the authorities can provide clear and regular updates to ensure transparency and efficiency in the process.",Service Delays and Inaction,High
+"Walang agarang updates tungkol sa mga service requests na isinusumite ng mga residente. Madalas, kailangan pang mag-follow up nang paulit-ulit bago makakuha ng impormasyon. Dahil dito, maraming tao ang nadidismaya at nagdududa kung natutugunan ba talaga ang kanilang mga hinaing. Nawa’y magkaroon ng malinaw at regular na updates upang masiguro ang transparency at maayos na proseso.""",Service Delays and Inaction,High
+"May matagal na response sa mga urgent concerns na dapat sana ay agad na natutugunan. Halimbawa, kapag may problema sa kalsada o kuryente, inaabot pa ng ilang araw bago may aksyon mula sa mga opisyal. Dahil dito, lumalala ang sitwasyon at naaapektuhan ang mga residente. Sana ay magkaroon ng mas mabilis na sistema para sa mga ganitong importanteng usapin.",Service Delays and Inaction,High
+"There are delayed responses to urgent concerns that should have been addressed immediately. For example, when there are issues with roads or electricity, it often takes several days before any action is taken by the officials. Because of this, the situation worsens and residents are directly affected. We hope that a faster system can be implemented to handle these important matters promptly.",Service Delays and Inaction,High
+"Matagal ang tugon sa mga agarang concerns na dapat ay agad na inaaksyunan. Halimbawa, kung may problema sa kalsada o kuryente, inaabot pa ng ilang araw bago kumilos ang mga opisyal. Dahil dito, lalong lumalala ang sitwasyon at apektado ang mga residente. Nawa’y magkaroon ng mas mabilis na sistema para sa mga ganitong mahahalagang usapin.",Service Delays and Inaction,High
+Sana nakapaskil po to sa may kanyangkantang section sa market.. may tarpaulin Sana to para walang over pricing.,Overpricing,High
+Dapat inspect nyo po mismo mga paninda sa palengke at pagsabihan mga tindera kasi gold npo ang mga presyo ng pninda sa palengke ntin.,Overpricing,High
+60 php un isang tali ng sweet potato leaves its goin rotten grabeee jaan sa San Fernando ginto lhat ng bilihin mygoodness paano na lng un gaya Kong average in living,Overpricing,High
+Talaga po Hinde nasusunod lahat Ng presyo masa grocery man or store man Wala KC nag momonitor kaya ganitong Ang pilipinas,Overpricing,High
+Hindi nman nasusunod yan sobrang mahal mga gulay sa palenke,Overpricing,High
+"Wala naman nagcocontrol, nakaupo naman lahat nga inspector sa market",Procedural and Operational Issues,High
+Sobrang mahal ang gulay talaga sana may bantay dyn sa palingke at tumingin ng mga presyo di nmn nasusunod yan presyo na post byo,Overpricing,High
+pag lumapet ka sa baranggay kung san ka nakatira ang sasabihin nila..kung saan ka botante duon ka kukuha tapos pag nagpunta ka nman sa barangay kung san ka botante ang sasabihin kung san nakatira dun ka kukuha...ano po ba tlaga,Unprofessional Conduct and Behavior,Medium
+Nagbigay na po ba ng ayuda? Parang hindi naman kami nasasabihan. Much better kung gawing house to house ang pagbibigay para lahat mabigyan. Kawawa ung mga hindi nasabihan,Unprofessional Conduct and Behavior,Medium
+Buti pa ang bagyo dumaan sa amin pero ang ganyan na ayuda lumampas sa amin pinilit nila yung binigyan,Governance and Integrity Concerns,Medium
+"May daya lang talaga sa bigayan,sa amin na malaking pamilya iisang box tapos sa kapitbahay na magasawa lang at walang anak,dalawa naibigay ____ mas malaki naman ambag namin sa taxes ehdiwawww,gamot pa na binibigay sa brgy para sa leptospirosis ehh expired,nainom na namin ano po magagawa namin _________",Governance and Integrity Concerns,Medium
+sabi ng ibang barangay di naman daw naka rehistro bakit daw bibigyan..kahit di naka rehistro basta butante dito sa san fernando yun ang mahalaga..meron naba pinipili ang mga taga barangay??? lahat nabagyo lahat nangailangan ..pero mga workers ng barangay pinipili nila..kesyo borders lang daw..GUSTO KO MAG NAME DROP NG BARANGAY DITO!!!!!!!,Governance and Integrity Concerns,Medium
+"Nagbigay na po ba ng ayuda? Kasi parang hindi naman kami nasasabihan kung kailan at paano ipamimigay. Maraming residente ang hindi nakakaalam ng schedule o kung saan dapat pumunta. Mas maganda siguro kung gawing house-to-house ang distribution para lahat ay mabigyan at walang maiwan. Sa ganitong paraan, mas maayos at patas ang pamimigay ng ayuda.",Governance and Integrity Concerns,Medium
+Has aid already been distributed? It seems that we are not properly informed about when and how it will be given. Many residents are unaware of the schedule or the location for claiming the assistance. It would be much better if the distribution could be done house-to-house to ensure that everyone receives it and no one is left out. This would make the process more organized and fair.,Governance and Integrity Concerns,Medium
+"Nagbigay na po ba ng ayuda? Kasi parang hindi naman kami nasasabihan kung kailan at paano ipamimigay. Maraming residente ang walang alam tungkol sa schedule o kung saan dapat pumunta. Mas mabuti kung gawing house-to-house ang pamimigay para lahat ay mabigyan at walang maiwan. Sa ganitong paraan, mas maayos at patas ang distribusyon ng ayuda.",Governance and Integrity Concerns,Medium
+"Some barangay employees are unprofessional. May mga pagkakataon na hindi sila maayos makitungo sa mga residente, minsan pasigaw o parang walang pakialam. Imbes na tulungan at gabayan ang mga tao sa proseso, nagiging pabigat pa ang kanilang asal. Dapat sigurong magkaroon ng maayos na training o orientation para masigurong maayos at magalang ang serbisyo nila",Unprofessional Conduct and Behavior,Medium
+"Some barangay employees are unprofessional. There are instances when they do not treat residents properly, sometimes raising their voices or showing indifference. Instead of assisting and guiding people through the process, their behavior becomes an additional burden. Proper training or orientation should be provided to ensure that they deliver respectful and efficient service.",Unprofessional Conduct and Behavior,Medium
+"May ilang empleyado ng barangay na hindi propesyonal. May mga pagkakataon na hindi sila maayos makitungo sa mga residente, minsan pasigaw o tila walang pakialam. Sa halip na tumulong at gumabay sa proseso, nagiging pabigat pa ang kanilang asal. Dapat magkaroon ng tamang training o orientation upang masiguro na maayos at magalang ang kanilang serbisyo.",Unprofessional Conduct and Behavior,Medium
+"Clerks gossip instead of working. Imbes na tutukan ang mga dokumento at magserbisyo sa mga tao, mas inuuna nila ang pagkukwentuhan at tsismisan. Dahil dito, mas bumabagal ang proseso at naaapektuhan ang mga residente na matiyagang nakapila.",Unprofessional Conduct and Behavior,Medium
+"Clerks gossip instead of working. Instead of focusing on processing documents and serving the people, they prioritize chatting and gossiping. This causes delays in transactions and greatly affects residents who patiently wait in line.",Unprofessional Conduct and Behavior,Medium
+"Ang mga clerk ay nagtsitsismisan imbes na magtrabaho. Sa halip na asikasuhin ang mga dokumento at magsilbi sa mga tao, inuuna pa nila ang pagkukwentuhan. Dahil dito, mas bumabagal ang proseso at naaabala ang mga residente na nakapila. Dapat silang paalalahanan ng kanilang supervisor na unahin ang trabaho kaysa sa personal na usapan.",Unprofessional Conduct and Behavior,Medium
+"Some barangay employees are unprofessional. May mga pagkakataon na hindi sila maayos makitungo sa mga residente, minsan pasigaw o parang walang pakialam. Imbes na tulungan at gabayan ang mga tao sa proseso, nagiging pabigat pa ang kanilang asal.",Unprofessional Conduct and Behavior,Medium
+"Some barangay employees are unprofessional. There are instances when they do not treat residents properly, sometimes raising their voices or showing indifference. Instead of assisting and guiding people through the process, their behavior becomes an additional burden. Proper training or orientation should be provided to ensure that they deliver respectful and efficient service.",Unprofessional Conduct and Behavior,Medium
+"May ilang empleyado ng barangay na hindi propesyonal. May mga pagkakataon na hindi sila maayos makitungo sa mga residente, minsan pasigaw o tila walang pakialam. Sa halip na tumulong at gumabay sa proseso, nagiging pabigat pa ang kanilang asal. Dapat magkaroon ng tamang training o orientation upang masiguro na maayos at magalang ang kanilang serbisyo.",Unprofessional Conduct and Behavior,Medium
+"Some barangay employees are unprofessional in their work. Instead of assisting residents properly, they sometimes display rude behavior, show favoritism, or ignore concerns. This creates a negative impression of the office and discourages residents from seeking help. Government employees are expected to serve the public with respect, fairness, and professionalism, but sadly, this is not always the case.",Unprofessional Conduct and Behavior,Medium
+"May mga empleyado sa barangay na hindi propesyonal sa kanilang trabaho. Sa halip na ayusin at tulungan ang mga residente, minsan ay bastos ang kanilang pakikitungo, may kinikilingan, o kaya naman ay binabalewala ang mga hinaing. Dahil dito, nagkakaroon ng masamang impresyon ang mga tao at nag-aatubiling lumapit para humingi ng tulong. Inaasahan ang mga kawani ng gobyerno na magsilbi nang may respeto at propesyonalismo, ngunit hindi ito palaging nakikita.""",Unprofessional Conduct and Behavior,Medium
+"Some barangay employees are unprofessional. Imbes na maging maayos at accommodating sa mga residente, minsan rude sila, nagpapakita ng favoritism, o deadma sa concerns. Nakakasira ito ng tiwala ng mga tao at nakakadiscourage lumapit sa barangay office. Government staff should serve with respect and professionalism, pero madalas hindi ito nangyayari.",Unprofessional Conduct and Behavior,Medium
+"Some barangay officials and employees are disrespectful when dealing with residents. Instead of addressing concerns politely, they raise their voices, dismiss questions, or act as if people’s problems are not important. This kind of behavior makes residents feel unwelcome and ignored, even though they have the right to be served properly by their local government.",Unprofessional Conduct and Behavior,Medium
+"May ilang opisyal at empleyado sa barangay na walang respeto sa pakikitungo sa mga residente. Sa halip na makipag-usap nang maayos, sila ay madalas sumisigaw, binabalewala ang mga tanong, o ipinapakita na hindi mahalaga ang problema ng tao. Dahil dito, nakakaramdam ng pagkawalang-gana at hindi pagtanggap ang mga residente, kahit karapatan nila ang maayos na serbisyo mula sa pamahalaan.",Unprofessional Conduct and Behavior,Medium
+"Some barangay officials and staff are disrespectful sa pakikitungo sa mga tao. Imbes na makipag-usap politely, minsan pasigaw, rude, or parang hindi nila pinapansin yung concerns ng residents. Nakaka-turn off ito at nakakabawas ng tiwala sa barangay, kasi dapat they serve the people with respect.",Unprofessional Conduct and Behavior,Medium
+"Some government employees openly mock or make fun of citizens who come to ask for help or process documents. Instead of showing professionalism, they laugh at people’s concerns, use sarcastic remarks, or belittle those who do not understand the procedures.",Unprofessional Conduct and Behavior,Medium
+"May mga empleyado sa opisina ng gobyerno na pinagtatawanan o nilalait ang mga mamamayan na lumalapit para humingi ng tulong o magproseso ng dokumento. Sa halip na maging propesyonal, sila ay nagbibitiw ng mga sarkastikong salita, tumatawa sa mga problema ng tao, o minamaliit ang mga hindi nakakaintindi ng proseso.",Unprofessional Conduct and Behavior,Medium
+"Some employees at the office mock or make fun of citizens na pumupunta para mag-asikaso ng documents or humingi ng tulong. Instead of being professional, they laugh, make sarcastic jokes, or belittle yung mga hindi familiar sa proseso",Unprofessional Conduct and Behavior,Medium
+"May malaking tambak ng basura sa gilid ng kalsada na matagal nang hindi dinadaanan ng truck ng koleksyon. Dahil dito, nagkakaroon ng masamang amoy at dumadami ang langaw at daga na maaaring magdulot ng sakit. Nakakaabala rin ito sa mga dumadaan, lalo na sa mga estudyante at residente na araw-araw gumagamit ng kalsadang iyon. Nananawagan kami na agad itong aksyunan ng barangay upang mapanatiling malinis at ligtas ang kapaligiran",Waste Management,High
+"There is a huge pile of garbage along the roadside that has not been collected by the garbage truck for a long time. This causes foul odor and attracts flies and rats, which may spread diseases. It also obstructs passersby, especially students and residents who use the road daily. We hope the barangay can take immediate action to keep the surroundings clean and safe.",Waste Management,High
+"May malaking pile ng basura sa gilid ng kalsada na matagal nang hindi kinokolekta ng garbage truck. Dahil dito, nagkakaroon ng foul smell at dumadami ang mga langaw at daga na pwedeng magdala ng sakit. Naiistorbo rin ang mga dumadaan, lalo na yung mga estudyante at residents na araw-araw gumagamit ng kalsadang iyon. Sana po ay agad itong ma-actionan ng barangay para maging clean at safe ang paligid.""",Waste Management,High
+"Garbage is scattered near the school, creating a foul smell and health risk for students and residents. We request immediate cleanup to keep the area safe and clean",Waste Management,High
+Nagkalat ang basura malapit sa paaralan na nagdudulot ng masamang amoy at panganib sa kalusugan ng mga estudyante at residente. Nais naming humiling ng agarang paglilinis upang maging ligtas at malinis ang paligid.,Waste Management,High
+May scattered garbage near the school na nagdudulot ng bad smell at health risk sa students at residents. Sana po ay ma-clean up agad para safe at clean ang area.,Waste Management,High
+"Waste disposal is not managed well in our area. Trash is not collected regularly, causing piles of garbage on the streets and creating health and sanitation problems.",Waste Management,High
+Hindi maayos ang pamamahala ng pagtatapon ng basura sa aming lugar. Hindi regular na kinokolekta ang basura kaya naiipon ito sa kalsada at nagdudulot ng problema sa kalusugan at kalinisan.,Waste Management,High
+Waste disposal is not properly managed dito sa area namin. Hindi regular ang collection ng basura kaya nag-accumulate sa streets at nagiging health and sanitation problem,Waste Management,High
+"There are no garbage trucks passing by the municipal area to collect trash. Because of this, garbage keeps piling up in the surroundings, causing foul odor and attracting pests like rats and flies. This creates health risks for residents and gives a bad image to the community. We hope the local government can schedule regular garbage collection to maintain cleanliness and order.",Waste Management,High
+"Walang dumadaang trak ng basura sa munisipyo para mag-collect ng basura. Dahil dito, naiipon ang mga basura sa paligid, nagdudulot ng mabahong amoy at nakakaakit ng mga daga at langaw. Nagiging banta ito sa kalusugan ng mga residente at nakakasira ng imahe ng komunidad. Sana ay magkaroon ng regular na schedule ng koleksyon ng basura ang lokal na pamahalaan para mapanatiling malinis at maayos ang kapaligiran",Waste Management,High
+"Walang dumadaang garbage truck sa munisipyo to collect trash. Kaya nagpa-pile up ang basura sa paligid, nagkaka-amoy at dumadami ang pests tulad ng daga at langaw. This is a health risk for residents at nakakahiya rin para sa community. Sana mag-set ng regular schedule ang LGU para sa proper garbage collection",Waste Management,High
+"The garbage truck does not arrive on schedule, causing trash to pile up on the streets. This delay leads to foul odors and attracts stray animals and pests, creating health risks for the community. Residents are inconvenienced and the surroundings become dirty and unpleasant.",Waste Management,High
+"Hindi dumarating sa oras ang trak ng basura kaya naiipon ang mga basura sa kalsada. Dahil dito, nagkakaroon ng mabahong amoy at naaakit ang mga aso, pusa, at iba pang peste na nagdudulot ng panganib sa kalusugan ng komunidad. Naiistorbo ang mga residente at nagiging madumi at hindi kaaya-aya ang kapaligiran.",Waste Management,High
+"Hindi maayos ang pamamahala ng pagtatapon ng basura sa aming komunidad. Hindi regular ang pangongolekta ng basura at madalas naiiwan itong nakatambak sa kalsada at mga pampublikong lugar. Nagdudulot ito ng mabahong amoy, umaakit ng peste, at nagdadala ng panganib sa kalusugan. Dahil dito, nagiging marumi at hindi kaaya-aya ang kapaligiran para sa mga residente. Nais naming humiling sa lokal na pamahalaan na magpatupad ng mas epektibo at regular na sistema ng pamamahala ng basura.",Waste Management,High
+"Hindi well-managed ang waste disposal sa community namin. Irregular ang garbage collection kaya nagpa-pile up ang basura sa streets at public areas. Nagdudulot ito ng bad smell, pests, at health risks. Dahil dito, nagiging dirty at unpleasant ang surroundings ng mga residents. Sana magkaroon ng mas efficient at consistent na waste management system ang LGU.",Waste Management,High
+"Waste disposal is not managed well in our community. Garbage collection is irregular, and trash often piles up on the streets and near public areas. This not only creates foul odors but also attracts pests and poses serious health risks. The lack of proper waste management makes the surroundings dirty and unpleasant for residents. We request the local government to implement a more efficient and consistent waste disposal system.""",Waste Management,High
+"Garbage bins in our community are overflowing because they are not emptied regularly. Trash spills onto the streets, creating an unsanitary environment that poses health risks to residents. The foul smell and unsightly piles of garbage also discourage cleanliness and affect the community’s image. We request that waste collection be done more frequently to prevent garbage bins from overflowing.",Waste Management,High
+"Umaapaw ang mga basurahan sa aming komunidad dahil hindi ito regular na nililinis at kinokolekta. Kumakalat ang basura sa kalsada, na nagdudulot ng hindi malinis na kapaligiran at panganib sa kalusugan ng mga residente. Ang mabahong amoy at hindi kaaya-ayang tanawin ay nakakaapekto rin sa kalinisan at imahe ng komunidad. Nais naming hilingin na mas madalas gawin ang pangongolekta ng basura para maiwasan ang pag-apaw ng mga basurahan.",Waste Management,High
+"Overflowing na ang garbage bins sa community namin kasi hindi sila regularly na nako-collect. Kumakalat na ang basura sa streets, which creates an unhealthy environment and health risks para sa mga residents. Nakakadagdag din ng foul smell at eyesore sa paligid. Sana mas maging frequent ang garbage collection para hindi mag-overflow ang mga basurahan.""",Waste Management,High
+"Uncollected trash in our community creates serious health risks. It attracts pests such as flies, mosquitoes, and rats that spread diseases. The foul odor and dirty surroundings also affect the daily lives of residents. We urge immediate action and consistent waste collection to protect the health of the community.""",Waste Management,High
+"Ang hindi nakokolektang basura sa aming komunidad ay nagdudulot ng panganib sa kalusugan. Nakakaakit ito ng mga langaw, lamok, at daga na nagdadala ng sakit. Ang mabahong amoy at maruming kapaligiran ay nakakaapekto sa pang-araw-araw na pamumuhay ng mga residente. Nais naming hilingin ang agarang aksyon at regular na pangongolekta ng basura para maprotektahan ang kalusugan ng komunidad.",Waste Management,High
+"Yung uncollected trash dito sa community namin sobrang health risk. It attracts flies, mosquitoes, and rats na nagdadala ng sakit. Yung foul smell at maruming paligid nakakaapekto sa daily lives ng mga tao. Sana magkaroon ng immediate action at regular garbage collection para safe ang health ng lahat.",Waste Management,High
+"Trash blocking the drainage system causes flooding during rains. The clogged drains prevent proper water flow, resulting in standing water that affects roads, houses, and pedestrians. This also creates breeding grounds for mosquitoes and other pests. Immediate cleanup and stricter waste management are needed.",Waste Management,High
+"Ang mga basurang bumabara sa drainage system ay nagdudulot ng pagbaha tuwing umuulan. Dahil barado ang daluyan ng tubig, nagkakaroon ng baha na nakakaapekto sa mga kalsada, bahay, at mga dumadaan. Nagiging lugar din ito ng pagdami ng lamok at iba pang peste. Kailangan ng agarang paglilinis at mas mahigpit na pamamahala sa basura.",Waste Management,High
+"Yung trash na bumabara sa drainage system nagdudulot ng baha every time umuulan. Dahil clogged ang daluyan ng tubig, nagkakaroon ng standing water na nakakaapekto sa kalsada, houses, at mga dumadaan. Nagiging breeding ground din ito ng lamok at pests. Kailangan ng immediate cleanup at stricter waste management.",Waste Management,High
+"Garbage has not been collected in our area for several days. The uncollected trash produces a foul odor, attracts flies, and poses health risks to residents. Immediate collection and regular scheduling are needed to avoid further problems",Waste Management,High
+"Hindi nakokolekta ang basura sa aming lugar ng ilang araw na. Dahil dito, nagkakaroon ng masamang amoy, maraming langaw, at panganib sa kalusugan ng mga residente. Kailangan ng agarang pagkolekta at regular na iskedyul para maiwasan ang mas malalang problema.",Waste Management,High
+"Garbage has not been collected in our area for days na. Dahil hindi pa rin nakukuha, nagiging mabaho, dumadami ang flies, at nagiging health risk sa mga tao. Kailangan ng immediate collection at mas regular na schedule para maiwasan ang mas malaking problema.",Waste Management,High
+"Our community has had no water for three days. This has caused difficulties for households as residents struggle with drinking, cooking, and sanitation. The prolonged lack of water service is very inconvenient and poses health risks. We request immediate action to restore water supply.",Water Services,High
+"Wala nang tubig sa aming komunidad sa loob ng tatlong araw. Nahihirapan ang mga residente sa pag-inom, pagluluto, at paglilinis. Ang matagal na pagkawala ng suplay ng tubig ay nagdudulot ng malaking abala at panganib sa kalusugan. Nawa’y maagapan agad ang pagbabalik ng tubig.",Water Services,High
+"Our community has had no water for three days na. Residents are having a hard time with drinking, cooking, and sanitation. Sobrang hassle at health risk ang matagal na pagkawala ng tubig. Sana maayos agad at ma-restore ang water supply.",Water Services,High
+"There has been no water supply since yesterday, and it has greatly affected our daily activities. Residents are struggling with drinking, cooking, and sanitation needs. This disruption is causing serious inconvenience and may lead to health issues. We urge immediate action to restore the water supply.",Water Services,High
+"Walang suplay ng tubig simula pa kahapon, at malaki ang epekto nito sa pang-araw-araw naming gawain. Nahihirapan ang mga residente sa pag-inom, pagluluto, at paglilinis. Malaking abala at maaaring magdulot ng sakit ang ganitong sitwasyon. Nawa’y agad na maibalik ang suplay ng tubig.",Water Services,High
+"There has been no water supply since yesterday. Ang hirap para sa mga residente sa pag-inom, pagluluto, at sanitation. Sobrang hassle at delikado pa para sa health kung magtagal pa. Sana ma-restore agad ang water supply.",Water Services,High
+"The water pressure in our barangay is always weak at night, making it difficult for residents to do essential tasks such as cooking, bathing, and cleaning. This problem has been recurring and causes great inconvenience for families. We hope that proper action will be taken to ensure a stable water supply throughout the day and night.",Water Services,High
+"Laging mahina ang pressure ng tubig sa aming barangay tuwing gabi, kaya nahihirapan ang mga residente sa mga pangunahing gawain tulad ng pagluluto, paliligo, at paglilinis. Paulit-ulit na itong problema at nagdudulot ng malaking abala sa mga pamilya. Sana ay gumawa ng paraan upang maging maayos at sapat ang suplay ng tubig araw at gabi.",Water Services,High
+"The water pressure in our barangay is always weak tuwing gabi. Ang hirap para sa residents na magluto, maligo, at maglinis. This has been a recurring problem and super inconvenient for families. Sana maayos na para stable ang water supply both day and night.",Water Services,High
+"The water supply in our area is unsafe and has a bad smell. Many residents are worried about possible health risks since the water is used for cooking, drinking, and daily household needs. We request that the water be tested and treated immediately to ensure it is safe for everyone in the community.",Water Services,High
+"Ang suplay ng tubig sa aming lugar ay hindi ligtas at may mabahong amoy. Maraming residente ang nag-aalala sa posibleng panganib sa kalusugan dahil ginagamit ang tubig sa pagluluto, pag-inom, at pang-araw-araw na pangangailangan. Hinihiling namin na agad itong masuri at malinis upang matiyak na ligtas ito para sa lahat sa komunidad.",Water Services,High
+"The water supply in our area is unsafe at may bad smell. Residents are worried kasi ginagamit ito for cooking, drinking, and daily needs. Sana ma-test at ma-treat agad ang tubig para sure na safe for everyone in the community.",Water Services,High
+"The water pipes in our community are leaking in many areas. This not only causes water wastage but also creates puddles that make roads slippery and unsafe. The leaks also affect the water supply, leading to low pressure in households. We request immediate repair of the damaged pipes to avoid further problems.",Water Services,High
+Maraming tubo ng tubig sa aming komunidad ang may tagas. Nagdudulot ito ng pag-aaksaya ng tubig at bumubuo ng mga bara at putik sa daan na delikado sa mga dumadaan. Apektado rin ang suplay ng tubig kaya nagiging mahina ang pressure sa mga bahay. Hinihiling namin na agad na ayusin ang mga sirang tubo upang maiwasan ang mas malalang problema,Water Services,High
+"The water pipes in our area ay puro leaks na. Ang daming water wasted at nagkakaroon pa ng puddles sa daan, making it slippery and unsafe. Dahil dito, mahina rin ang water pressure sa mga bahay. Sana ma-repair agad ang mga tubo before it gets worse.",Water Services,High
+"There has been no water supply the whole day in our community. This situation makes it very difficult for households to cook, clean, and maintain proper hygiene. The lack of water also affects schools and small businesses. We ask for an immediate solution and timely updates whenever there is a water service interruption.",Water Services,High
+"Walang suplay ng tubig buong araw sa aming komunidad. Napakahirap para sa mga pamilya na magluto, maglinis, at mapanatili ang tamang kalinisan. Apektado rin ang mga paaralan at maliliit na negosyo. Nais naming humiling ng agarang aksyon at malinaw na abiso tuwing may abala sa suplay ng tubig.",Water Services,High
+"Whole day na walang tubig sa community namin. Ang hirap magluto, maglinis, at mag-maintain ng proper hygiene. Pati schools at small businesses naapektuhan. Sana maayos agad at magbigay ng clear updates kapag may water interruption.",Water Services,High
+"Despite making several follow-ups regarding my concern, I have not received any response from the office. This lack of communication causes frustration and makes residents feel neglected. We hope the office can improve in providing timely updates and clear feedback on complaints.",Service Delays and Inaction,High
+"Kahit ilang ulit na akong nag-follow-up tungkol sa aking reklamo, wala pa rin akong natatanggap na tugon mula sa opisina. Nakakadismaya ang kawalan ng komunikasyon at pakiramdam ng mga residente ay napapabayaan. Nais naming magkaroon ng mas maayos na sistema ng pagbibigay ng update at malinaw na sagot sa mga reklamo.",Service Delays and Inaction,High
+Paulit-ulit na akong nag-follow-up about my complaint pero wala pa ring response from the office. Nakaka-frustrate at parang napapabayaan ang mga residents. Sana mas maging responsive sila at magbigay ng clear updates sa mga concerns.,Service Delays and Inaction,High
+Email inquiries sent by residents to the office are often ignored or left unanswered. This lack of response makes it difficult for people to get the information or assistance they need. We hope the office can improve communication and respond promptly to emails.,Service Delays and Inaction,High
+"Ang mga email inquiry na ipinapadala ng mga residente sa opisina ay kadalasang hindi pinapansin o hindi nasasagot. Dahil dito, nahihirapan ang mga tao na makakuha ng tamang impormasyon o tulong na kanilang kailangan. Nais naming sana ay mapabuti ang komunikasyon at mas mabilis na sumagot ang opisina sa mga email.",Service Delays and Inaction,High
+"Yung mga email inquiries na pinapadala ng residents sa office madalas walang reply or totally ignored. Dahil dito, ang hirap kumuha ng info o assistance na kailangan. Sana mas maging responsive ang office sa mga emails.",Service Delays and Inaction,Medium
+Vegetables being sold in the market are overpriced compared to the standard rates. This makes it difficult for ordinary families to afford healthy food. We hope the local government can monitor and regulate prices to prevent unfair overpricing.,Overpricing,High
+"Sobrang taas ng presyo ng gulay sa palengke kumpara sa tamang halaga. Dahil dito, nahihirapan ang mga karaniwang pamilya na makabili ng masustansyang pagkain. Sana ay bantayan at ayusin ng lokal na pamahalaan ang presyo para maiwasan ang hindi makatarungang pagtataas.",Overpricing,High
+"Yung gulay sa market sobrang overpriced kumpara sa tamang presyo. Dahil dito, nahihirapan ang mga families na makabili ng healthy food. Sana i-monitor at i-regulate ng LGU ang prices para maiwasan ang unfair overpricing.",Overpricing,High
+"Applications are always delayed, causing inconvenience to citizens who rely on timely approvals. This affects work, school, and other important needs. We hope the offices can improve their processing system to ensure faster and more efficient service.",Service Delays and Inaction,Medium
+"Laging delayed ang mga application, na nagdudulot ng abala sa mga mamamayan na umaasa sa agarang pag-apruba. Naaapektuhan nito ang trabaho, pag-aaral, at iba pang mahahalagang pangangailangan. Sana ay mapabuti ng mga opisina ang kanilang sistema para mas mabilis at maayos ang serbisyo.",Service Delays and Inaction,Medium
+"Applications are always delayed kaya sobrang hassle para sa citizens na umaasa sa mabilis na approval. Naaapektuhan pati work, school, at ibang important needs. Sana ma-improve ng offices ang processing system para maging faster at more efficient ang service.",Service Delays and Inaction,Medium
